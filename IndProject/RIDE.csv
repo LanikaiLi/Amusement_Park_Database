@@ -1,0 +1,49 @@
+﻿RIDE_ID,RIDE_NAME ,TYPE_OF_RIDE ,CAPACITY_OF_A_RIDE ,RIDE_HEIGHT(FT),YEAR_STARTED ,,DESCRIPTION,MIN_RIDE_HEIGHT(CM),MANUFACTURER,TOP_SPEED(MPH),TRACK LENGTH(FT),ADDITIONAL_FEES
+R001,Air Papillon,Kids,,,2005,,A crazy ride for the little ones craving fun!,None with adult,Zamperla,,,N
+R002,Aqua Twist,Family,36,,,,Get soaked on this new interactive water ride!,91.4,,,,N
+R003,Autos Tamponneuses,Family,,,,,Get ready for a bumpy ride!,111.8,,,,N
+R004,Bateau Pirate,Thrill,,66,1988,,All hands on deck for a wild high seas adventure!,121.9,Huss Maschinenfabrik co.,,,N
+R005,Boomerang,Thrill,,117,1984,,"Race down a trio of high-speed loops, then boomerang all the way back to the start – backwards.",121.9,Vekoma International BV,46.6,876,N
+R006,Catapulte,Family,,,,,Get ready for the ultimate skydiving experience!,111.8,,80,,Y
+R007,Chaos,Thrill,,,,,"Chaos, a seven story, chaotic loop roller coaster.",,,,,N
+R008,Condor,Family,28,98,1990,,Spread your wings and take to the sky as these birds of a feather flock together.,111.8,Huss North American Parts Inc.,,,N
+R009,Disco Ronde,Family,16,,1986,,Get your disco shoes on and step into the rythm of the night!,111.8,Huss North American Parts Inc.,,,N
+R010,Dragon,Family,,35,1994,,An into dark steel roller coaster for the thrill seekers.,106.7,Intamin AG,,970,N
+R011,Démon,Thrill,32,,,,A giant devilish ride that will turn your body upside down in unpredictable ways!,137.2,,,,N
+R012,Ednör,Thrill,,108,,,Dare to face a real sea monster?,132.1,,,,N
+R013,Goliath,Thrill,,,2006,,"Ride a mile of ultra slim, ultra fast track over hyper sized loops and twists. Are you brave enough?",137.2,Bolliger & Mabillard,68.35,,N
+R014,Grand Carrousel,Kids,,,,,"Step back in time aboard the carousel, everyone's favorite forever.",None with adult,,,,N
+R015,Grande Roue,Family,,148,1984,,Get on a ride that stood the test of time.,None with adult,Vekoma International BV,,,N
+R016,Gravitor,Family,40,,,,Join in the spectacular dance of Gravitor,106.7,,22.36,,N
+R017,Joyeux Moussaillons,Kids,,,1967,,Turn your little ones into real captains on this adventurous boat journey!,None with adult,Arrow Dynamics Inc.,,307,N
+R018,La Danse des Bestioles,Kids,,,,,High flying adventure awaits young thrill seekers in training as their bugs lift off for fun!,None with adult,,,,N
+R019,La Grande Envolée,Family,35,,1990,,Whirl through the sky on a revolving hot air balloon!,91.4,A. Zamperla S.R.I.,,,N
+R020,La Marche du mille-pattes,Kids,,,1967,,Junior thrill seekers will experience high speed for the first time!,91.4,Arrow Dynamics Inc.,15,426.4,N
+R021,Le Galopant,Kids,28,,2007,,Step back in time and choose your horse on this restored old time classic carousel.,None with adult,Jules Moulinas,,,N
+R022,Marais Enchanté,Kids,,,,,This cruise doesn’t need water to make you feel wavy!,None with adult,,,,N
+R023,Manitou,Thrill,,,,,This masterpiece moves like a huge pendulum!,132.1,,,,N
+R024,Minirail,Family,,,1967,,Get on board for a stylish tour around the park!,None with adult,"Maschinen, Fabeiv",6.21,5500,N
+R025,Monsieur L'Arbre,Kids,,,,,Little birds can beat their wings and fly up to the treetops.,None with adult,,,,N
+R026,Monstre,Thrill,,131,1985,,Providing thrills since 1985,132.1,William L. Bobb Ass. Inc.,59.65,4025,N
+R027,Orbite,Thrill,,180,1998,,Ready for a rocket launch up to space?,132.1,S&S Sports Power Inc.,40,,N
+R028,Ourson Fripon,Kids,,,,,Share a good laugh with Ourson Fripon!,91.4,,,,N
+R029,Phoenix,Family,,,,,A mythical bird that has risen from the ashes… this time as a flying scooter!,91.4,,,,N
+R030,Pommes d'Api,Kids,,,,,Twirl in the sky aboard Pommes d’Api!,None with adult,,,,N
+R031,Sling Shot,Thrill,,246,,,Become a human slingshot when you are catapulted!,111.8,,,,Y
+R032,Spirale,Family,330,,1968,,"The rotating, aerial cabin offers views of the Montreal skyline from 73 meters in the air.",None with adult,Buhler SA Berne,,,N
+R033,Splash,Thrill,,50,,,Plunge headfirst into the supreme wave!,106.7,,30,,N
+R034,Tchou Tchou,Kids,,,,,"The kids love this little train that goes around La Ronde. Choo, choo!",None with adult,,,,N
+R035,Titan,Thrill,40,148,,,"A swinging, dizzying adventure atop a giant swaying pendulum!",132.1,,69.59,,N
+R036,Toboggan Nordique,Family,,,,,Run through thrilling mountain slopes aboard the Toboggan Nordique!,106.7,,,,N
+R037,Tour de Ville,Family,,,,,A jumbo carousel tower hoists you into the air for a swinging dance,121.9,,,,N
+R038,Tourbillon,Family,,,,,"Tourbillon will send you spinning, twisting and rolling, get ready for a whirlwind of fun!",None with adult,,,,N
+R039,Vampire,Thrill,,105,,,The Vampire takes you on a menacing ride of relentless loops and twists!,137.2,,50,,N
+R040,Vertigo,Thrill,,50,,,Defying gravity aboard Vertigo!,121.9,,,,N
+R041,Vipère,Thrill,,107,,,Canada’s First Ever Free-Fly Roller Coaster at La Ronde!,132.1,,,,N
+R042,Vol Ultime,Thrill,,148,,,You will literally have the world at your feet!,111.8,,37.28,,N
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Source:,https://www.laronde.com/larondeen/attractions/ride-list,,,,,,,,,,,
