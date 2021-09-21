@@ -1,0 +1,1001 @@
+﻿TICKET_ID,CUSTOMER_ID,PURCHASE_DATE,PROMO_APPLIED ,CATEGORY_OF_TICKET_ID,CATEGORY_OF_TICKET_DESC,PAYMENT_ID,PAYMENT_METHOD_ID,PAYMENT_METHOD_DESC,PURCHASE_MODE ,PRICE
+1,CD0143,27-06-2020,1,1,Annual pass,1,2,Credit Card,Online,700
+2,CD0109,27-11-2019,1,1,Annual pass,2,1,Cash,Online,700
+3,CD0149,18-04-2020,1,3,Daily Pass,3,2,Credit Card,Online,120
+4,CD0053,24-07-2020,1,1,Annual pass,4,4,Online Payment,Online,700
+5,CD0038,18-12-2019,1,1,Annual pass,5,2,Credit Card,Online,700
+6,CD0019,03-12-2019,1,1,Annual pass,6,2,Credit Card,Offline,700
+7,CD0034,17-06-2020,1,2,Parking ticket,7,1,Cash,Online,20
+8,CD0021,02-02-2020,0,1,Annual pass,8,4,Online Payment,Online,800
+9,CD0090,06-02-2020,0,1,Annual pass,9,2,Credit Card,Online,800
+10,CD0046,29-11-2019,0,1,Annual pass,10,3,Debit Card,Online,800
+11,CD0133,03-03-2020,0,2,Parking ticket,11,1,Cash,Online,20
+12,CD0148,28-04-2020,0,2,Parking ticket,12,1,Cash,Offline,20
+13,CD0116,13-05-2020,1,2,Parking ticket,13,2,Credit Card,Online,20
+14,CD0150,16-01-2020,1,2,Parking ticket,14,4,Online Payment,Online,20
+15,CD0040,12-02-2020,0,1,Annual pass,15,1,Cash,Offline,800
+16,CD0111,20-03-2020,1,1,Annual pass,16,3,Debit Card,Online,700
+17,CD0088,14-07-2020,0,2,Parking ticket,17,1,Cash,Offline,20
+18,CD0144,22-06-2020,1,1,Annual pass,18,3,Debit Card,Online,700
+19,CD0076,10-05-2020,1,3,Daily Pass,19,4,Online Payment,Offline,120
+20,CD0002,22-11-2019,1,1,Annual pass,20,2,Credit Card,Online,700
+21,CD0104,30-04-2020,0,3,Daily Pass,21,4,Online Payment,Offline,150
+22,CD0103,28-05-2020,1,1,Annual pass,22,4,Online Payment,Online,700
+23,CD0051,28-12-2019,1,1,Annual pass,23,2,Credit Card,Offline,700
+24,CD0078,11-02-2020,1,2,Parking ticket,24,2,Credit Card,Offline,20
+25,CD0052,25-02-2020,0,2,Parking ticket,25,3,Debit Card,Offline,20
+26,CD0119,05-01-2020,0,2,Parking ticket,26,1,Cash,Offline,20
+27,CD0020,22-06-2020,0,3,Daily Pass,27,4,Online Payment,Offline,150
+28,CD0089,13-02-2020,1,3,Daily Pass,28,4,Online Payment,Online,120
+29,CD0146,27-05-2020,1,2,Parking ticket,29,3,Debit Card,Offline,20
+30,CD0069,08-01-2020,0,3,Daily Pass,30,1,Cash,Offline,150
+31,CD0084,16-11-2019,1,2,Parking ticket,31,4,Online Payment,Offline,20
+32,CD0015,17-01-2020,1,3,Daily Pass,32,2,Credit Card,Offline,120
+33,CD0082,27-11-2019,0,2,Parking ticket,33,2,Credit Card,Online,20
+34,CD0080,17-11-2019,0,1,Annual pass,34,1,Cash,Online,800
+35,CD0037,29-06-2020,0,3,Daily Pass,35,2,Credit Card,Offline,150
+36,CD0142,06-04-2020,0,2,Parking ticket,36,2,Credit Card,Offline,20
+37,CD0024,09-03-2020,0,1,Annual pass,37,1,Cash,Offline,800
+38,CD0084,21-06-2020,0,3,Daily Pass,38,1,Cash,Offline,150
+39,CD0024,18-06-2020,1,2,Parking ticket,39,1,Cash,Offline,20
+40,CD0114,30-11-2019,0,3,Daily Pass,40,4,Online Payment,Offline,150
+41,CD0107,20-04-2020,1,1,Annual pass,41,2,Credit Card,Offline,700
+42,CD0025,30-07-2020,1,1,Annual pass,42,2,Credit Card,Offline,700
+43,CD0045,25-06-2020,1,3,Daily Pass,43,4,Online Payment,Online,120
+44,CD0143,10-01-2020,1,2,Parking ticket,44,4,Online Payment,Online,20
+45,CD0079,10-03-2020,0,3,Daily Pass,45,1,Cash,Online,150
+46,CD0139,05-03-2020,0,1,Annual pass,46,2,Credit Card,Offline,800
+47,CD0035,31-01-2020,0,1,Annual pass,47,4,Online Payment,Offline,800
+48,CD0133,10-03-2020,0,2,Parking ticket,48,2,Credit Card,Offline,20
+49,CD0134,28-05-2020,1,1,Annual pass,49,1,Cash,Offline,700
+50,CD0093,02-01-2020,1,3,Daily Pass,50,3,Debit Card,Online,120
+51,CD0148,06-02-2020,1,1,Annual pass,51,4,Online Payment,Offline,700
+52,CD0099,18-05-2020,0,3,Daily Pass,52,1,Cash,Offline,150
+53,CD0035,30-12-2019,0,2,Parking ticket,53,2,Credit Card,Offline,20
+54,CD0023,25-12-2019,0,3,Daily Pass,54,1,Cash,Offline,150
+55,CD0005,25-12-2019,1,1,Annual pass,55,2,Credit Card,Offline,700
+56,CD0072,22-11-2019,1,1,Annual pass,56,4,Online Payment,Offline,700
+57,CD0005,19-06-2020,0,1,Annual pass,57,3,Debit Card,Offline,800
+58,CD0095,06-07-2020,1,2,Parking ticket,58,3,Debit Card,Offline,20
+59,CD0027,24-01-2020,1,3,Daily Pass,59,2,Credit Card,Offline,120
+60,CD0064,03-06-2020,0,2,Parking ticket,60,4,Online Payment,Offline,20
+61,CD0019,16-01-2020,0,2,Parking ticket,61,2,Credit Card,Online,20
+62,CD0095,04-05-2020,1,3,Daily Pass,62,4,Online Payment,Online,120
+63,CD0105,20-03-2020,0,1,Annual pass,63,2,Credit Card,Offline,800
+64,CD0035,01-04-2020,1,3,Daily Pass,64,1,Cash,Offline,120
+65,CD0117,12-02-2020,0,3,Daily Pass,65,3,Debit Card,Online,150
+66,CD0093,23-02-2020,1,2,Parking ticket,66,4,Online Payment,Offline,20
+67,CD0053,10-11-2019,1,2,Parking ticket,67,2,Credit Card,Offline,20
+68,CD0150,01-04-2020,1,1,Annual pass,68,4,Online Payment,Offline,700
+69,CD0101,19-07-2020,0,1,Annual pass,69,3,Debit Card,Online,800
+70,CD0150,11-01-2020,1,2,Parking ticket,70,2,Credit Card,Offline,20
+71,CD0085,25-11-2019,0,1,Annual pass,71,1,Cash,Online,800
+72,CD0051,22-03-2020,1,3,Daily Pass,72,4,Online Payment,Offline,120
+73,CD0093,11-04-2020,1,3,Daily Pass,73,3,Debit Card,Online,120
+74,CD0059,19-02-2020,1,3,Daily Pass,74,4,Online Payment,Online,120
+75,CD0035,15-06-2020,1,3,Daily Pass,75,1,Cash,Offline,120
+76,CD0027,10-06-2020,0,3,Daily Pass,76,2,Credit Card,Online,150
+77,CD0056,20-03-2020,0,2,Parking ticket,77,2,Credit Card,Offline,20
+78,CD0071,15-12-2019,1,1,Annual pass,78,4,Online Payment,Online,700
+79,CD0103,22-07-2020,0,3,Daily Pass,79,1,Cash,Online,150
+80,CD0119,25-02-2020,1,2,Parking ticket,80,1,Cash,Online,20
+81,CD0021,09-02-2020,0,2,Parking ticket,81,4,Online Payment,Online,20
+82,CD0137,07-07-2020,0,3,Daily Pass,82,4,Online Payment,Offline,150
+83,CD0025,24-03-2020,1,1,Annual pass,83,2,Credit Card,Offline,700
+84,CD0120,04-01-2020,1,3,Daily Pass,84,1,Cash,Offline,120
+85,CD0135,27-05-2020,0,2,Parking ticket,85,4,Online Payment,Offline,20
+86,CD0071,09-11-2019,0,2,Parking ticket,86,1,Cash,Offline,20
+87,CD0106,23-04-2020,0,1,Annual pass,87,1,Cash,Offline,800
+88,CD0052,06-01-2020,1,2,Parking ticket,88,1,Cash,Offline,20
+89,CD0107,22-03-2020,1,3,Daily Pass,89,3,Debit Card,Offline,120
+90,CD0066,21-07-2020,0,3,Daily Pass,90,4,Online Payment,Offline,150
+91,CD0052,11-03-2020,0,2,Parking ticket,91,3,Debit Card,Offline,20
+92,CD0133,31-05-2020,0,1,Annual pass,92,1,Cash,Online,800
+93,CD0013,17-12-2019,1,1,Annual pass,93,4,Online Payment,Offline,700
+94,CD0023,04-01-2020,0,1,Annual pass,94,1,Cash,Online,800
+95,CD0094,05-01-2020,0,2,Parking ticket,95,3,Debit Card,Offline,20
+96,CD0022,18-02-2020,1,1,Annual pass,96,1,Cash,Online,700
+97,CD0037,25-07-2020,1,2,Parking ticket,97,2,Credit Card,Offline,20
+98,CD0030,21-11-2019,0,1,Annual pass,98,3,Debit Card,Offline,800
+99,CD0010,08-11-2019,1,2,Parking ticket,99,3,Debit Card,Offline,20
+100,CD0053,24-01-2020,1,2,Parking ticket,100,2,Credit Card,Offline,20
+101,CD0011,12-12-2019,1,3,Daily Pass,101,3,Debit Card,Offline,120
+102,CD0078,04-02-2020,0,1,Annual pass,102,1,Cash,Online,800
+103,CD0147,22-06-2020,1,1,Annual pass,103,2,Credit Card,Offline,700
+104,CD0008,23-01-2020,1,2,Parking ticket,104,4,Online Payment,Offline,20
+105,CD0131,09-12-2019,0,1,Annual pass,105,4,Online Payment,Offline,800
+106,CD0005,01-01-2020,0,3,Daily Pass,106,4,Online Payment,Offline,150
+107,CD0135,28-06-2020,0,1,Annual pass,107,4,Online Payment,Online,800
+108,CD0048,19-03-2020,1,1,Annual pass,108,3,Debit Card,Offline,700
+109,CD0142,08-06-2020,1,1,Annual pass,109,4,Online Payment,Online,700
+110,CD0028,25-07-2020,0,1,Annual pass,110,1,Cash,Online,800
+111,CD0073,08-07-2020,1,3,Daily Pass,111,4,Online Payment,Online,120
+112,CD0002,30-05-2020,1,1,Annual pass,112,2,Credit Card,Online,700
+113,CD0098,06-02-2020,1,2,Parking ticket,113,4,Online Payment,Offline,20
+114,CD0035,27-07-2020,0,2,Parking ticket,114,1,Cash,Online,20
+115,CD0086,25-11-2019,0,3,Daily Pass,115,3,Debit Card,Online,150
+116,CD0060,14-07-2020,0,2,Parking ticket,116,1,Cash,Online,20
+117,CD0147,30-06-2020,0,1,Annual pass,117,2,Credit Card,Online,800
+118,CD0098,07-03-2020,0,2,Parking ticket,118,4,Online Payment,Offline,20
+119,CD0101,04-06-2020,0,3,Daily Pass,119,1,Cash,Online,150
+120,CD0054,29-02-2020,1,3,Daily Pass,120,1,Cash,Online,120
+121,CD0119,13-12-2019,1,1,Annual pass,121,3,Debit Card,Online,700
+122,CD0028,20-06-2020,1,2,Parking ticket,122,3,Debit Card,Online,20
+123,CD0039,18-03-2020,1,3,Daily Pass,123,2,Credit Card,Online,120
+124,CD0006,10-07-2020,0,3,Daily Pass,124,2,Credit Card,Offline,150
+125,CD0115,14-01-2020,0,2,Parking ticket,125,2,Credit Card,Offline,20
+126,CD0066,10-07-2020,1,1,Annual pass,126,4,Online Payment,Offline,700
+127,CD0027,26-07-2020,0,1,Annual pass,127,3,Debit Card,Online,800
+128,CD0123,15-04-2020,0,3,Daily Pass,128,1,Cash,Offline,150
+129,CD0047,08-04-2020,1,1,Annual pass,129,1,Cash,Offline,700
+130,CD0046,11-04-2020,1,2,Parking ticket,130,1,Cash,Offline,20
+131,CD0150,14-01-2020,0,2,Parking ticket,131,1,Cash,Online,20
+132,CD0018,16-06-2020,1,3,Daily Pass,132,4,Online Payment,Online,120
+133,CD0075,16-05-2020,1,1,Annual pass,133,1,Cash,Offline,700
+134,CD0022,01-04-2020,1,2,Parking ticket,134,2,Credit Card,Offline,20
+135,CD0145,24-04-2020,0,1,Annual pass,135,4,Online Payment,Offline,800
+136,CD0031,03-08-2020,1,3,Daily Pass,136,1,Cash,Offline,120
+137,CD0090,22-03-2020,1,1,Annual pass,137,4,Online Payment,Online,700
+138,CD0126,19-01-2020,1,1,Annual pass,138,2,Credit Card,Offline,700
+139,CD0144,24-12-2019,0,2,Parking ticket,139,2,Credit Card,Offline,20
+140,CD0098,25-04-2020,0,3,Daily Pass,140,3,Debit Card,Online,150
+141,CD0116,12-04-2020,1,2,Parking ticket,141,4,Online Payment,Online,20
+142,CD0149,23-07-2020,1,1,Annual pass,142,3,Debit Card,Offline,700
+143,CD0054,26-06-2020,1,2,Parking ticket,143,3,Debit Card,Online,20
+144,CD0088,10-12-2019,0,1,Annual pass,144,2,Credit Card,Offline,800
+145,CD0107,04-04-2020,1,3,Daily Pass,145,1,Cash,Online,120
+146,CD0023,08-01-2020,0,1,Annual pass,146,2,Credit Card,Online,800
+147,CD0127,20-04-2020,1,1,Annual pass,147,1,Cash,Online,700
+148,CD0035,26-11-2019,1,3,Daily Pass,148,3,Debit Card,Online,120
+149,CD0130,10-05-2020,1,1,Annual pass,149,2,Credit Card,Offline,700
+150,CD0114,19-01-2020,1,3,Daily Pass,150,2,Credit Card,Online,120
+151,CD0118,23-05-2020,0,3,Daily Pass,151,2,Credit Card,Online,150
+152,CD0087,12-12-2019,1,2,Parking ticket,152,4,Online Payment,Online,20
+153,CD0062,01-11-2019,0,1,Annual pass,153,2,Credit Card,Offline,800
+154,CD0039,22-02-2020,0,3,Daily Pass,154,1,Cash,Offline,150
+155,CD0004,08-12-2019,1,3,Daily Pass,155,1,Cash,Offline,120
+156,CD0037,15-01-2020,0,3,Daily Pass,156,3,Debit Card,Online,150
+157,CD0058,06-03-2020,0,1,Annual pass,157,4,Online Payment,Online,800
+158,CD0091,24-06-2020,1,1,Annual pass,158,2,Credit Card,Online,700
+159,CD0091,02-11-2019,1,3,Daily Pass,159,2,Credit Card,Online,120
+160,CD0145,12-02-2020,1,1,Annual pass,160,1,Cash,Offline,700
+161,CD0144,23-03-2020,0,2,Parking ticket,161,3,Debit Card,Online,20
+162,CD0118,03-12-2019,0,1,Annual pass,162,1,Cash,Online,800
+163,CD0093,27-05-2020,1,3,Daily Pass,163,4,Online Payment,Offline,120
+164,CD0021,06-03-2020,0,3,Daily Pass,164,3,Debit Card,Offline,150
+165,CD0032,29-04-2020,1,2,Parking ticket,165,4,Online Payment,Online,20
+166,CD0041,12-07-2020,1,1,Annual pass,166,1,Cash,Online,700
+167,CD0030,14-11-2019,1,3,Daily Pass,167,3,Debit Card,Online,120
+168,CD0096,28-06-2020,1,1,Annual pass,168,3,Debit Card,Online,700
+169,CD0076,21-07-2020,1,3,Daily Pass,169,2,Credit Card,Offline,120
+170,CD0004,24-05-2020,0,1,Annual pass,170,4,Online Payment,Online,800
+171,CD0148,07-02-2020,0,1,Annual pass,171,4,Online Payment,Offline,800
+172,CD0142,27-11-2019,0,3,Daily Pass,172,3,Debit Card,Online,150
+173,CD0140,05-12-2019,1,2,Parking ticket,173,2,Credit Card,Offline,20
+174,CD0050,28-01-2020,0,3,Daily Pass,174,1,Cash,Offline,150
+175,CD0053,31-07-2020,0,1,Annual pass,175,3,Debit Card,Online,800
+176,CD0087,26-02-2020,1,3,Daily Pass,176,3,Debit Card,Online,120
+177,CD0068,29-03-2020,1,3,Daily Pass,177,4,Online Payment,Offline,120
+178,CD0103,14-07-2020,0,3,Daily Pass,178,4,Online Payment,Offline,150
+179,CD0097,20-01-2020,1,2,Parking ticket,179,4,Online Payment,Online,20
+180,CD0070,08-07-2020,0,3,Daily Pass,180,2,Credit Card,Online,150
+181,CD0008,15-02-2020,1,3,Daily Pass,181,1,Cash,Online,120
+182,CD0128,09-07-2020,0,3,Daily Pass,182,3,Debit Card,Offline,150
+183,CD0111,09-06-2020,1,2,Parking ticket,183,4,Online Payment,Online,20
+184,CD0064,17-07-2020,0,1,Annual pass,184,1,Cash,Offline,800
+185,CD0136,23-04-2020,0,2,Parking ticket,185,3,Debit Card,Online,20
+186,CD0140,19-01-2020,0,2,Parking ticket,186,2,Credit Card,Offline,20
+187,CD0047,20-06-2020,0,2,Parking ticket,187,2,Credit Card,Online,20
+188,CD0077,14-12-2019,1,1,Annual pass,188,2,Credit Card,Offline,700
+189,CD0093,12-08-2020,0,3,Daily Pass,189,2,Credit Card,Online,150
+190,CD0132,13-12-2019,1,2,Parking ticket,190,1,Cash,Offline,20
+191,CD0025,02-06-2020,0,3,Daily Pass,191,1,Cash,Online,150
+192,CD0128,15-02-2020,1,1,Annual pass,192,2,Credit Card,Online,700
+193,CD0095,30-04-2020,0,3,Daily Pass,193,4,Online Payment,Online,150
+194,CD0084,02-02-2020,0,1,Annual pass,194,2,Credit Card,Offline,800
+195,CD0108,23-11-2019,1,2,Parking ticket,195,2,Credit Card,Offline,20
+196,CD0039,13-12-2019,0,3,Daily Pass,196,3,Debit Card,Offline,150
+197,CD0118,10-02-2020,0,2,Parking ticket,197,4,Online Payment,Offline,20
+198,CD0131,15-11-2019,1,1,Annual pass,198,1,Cash,Offline,700
+199,CD0007,11-03-2020,1,3,Daily Pass,199,3,Debit Card,Online,120
+200,CD0098,30-04-2020,1,2,Parking ticket,200,2,Credit Card,Offline,20
+201,CD0073,23-02-2020,0,2,Parking ticket,201,3,Debit Card,Online,20
+202,CD0136,16-06-2020,0,2,Parking ticket,202,4,Online Payment,Offline,20
+203,CD0005,18-01-2020,1,2,Parking ticket,203,4,Online Payment,Online,20
+204,CD0055,23-12-2019,0,1,Annual pass,204,3,Debit Card,Offline,800
+205,CD00010,30-04-2020,1,1,Annual pass,205,2,Credit Card,Offline,700
+206,CD0025,18-02-2020,0,1,Annual pass,206,4,Online Payment,Offline,800
+207,CD0088,20-06-2020,1,3,Daily Pass,207,3,Debit Card,Offline,120
+208,CD0035,28-01-2020,0,1,Annual pass,208,3,Debit Card,Online,800
+209,CD0134,09-05-2020,1,2,Parking ticket,209,1,Cash,Online,20
+210,CD0091,19-07-2020,1,1,Annual pass,210,1,Cash,Online,700
+211,CD0080,12-12-2019,1,2,Parking ticket,211,1,Cash,Online,20
+212,CD0144,12-08-2020,0,2,Parking ticket,212,1,Cash,Online,20
+213,CD0048,01-03-2020,1,2,Parking ticket,213,3,Debit Card,Online,20
+214,CD0106,16-05-2020,1,3,Daily Pass,214,3,Debit Card,Offline,120
+215,CD0055,01-12-2019,1,2,Parking ticket,215,4,Online Payment,Offline,20
+216,CD0020,08-11-2019,0,1,Annual pass,216,2,Credit Card,Online,800
+217,CD0097,31-03-2020,1,1,Annual pass,217,3,Debit Card,Online,700
+218,CD0100,29-12-2019,1,2,Parking ticket,218,1,Cash,Online,20
+219,CD0093,12-12-2019,0,1,Annual pass,219,3,Debit Card,Online,800
+220,CD0097,09-02-2020,1,2,Parking ticket,220,4,Online Payment,Online,20
+221,CD0074,09-01-2020,0,1,Annual pass,221,3,Debit Card,Online,800
+222,CD0076,23-04-2020,1,1,Annual pass,222,1,Cash,Offline,700
+223,CD0046,24-04-2020,0,1,Annual pass,223,3,Debit Card,Offline,800
+224,CD0048,13-02-2020,0,3,Daily Pass,224,4,Online Payment,Online,150
+225,CD0143,27-02-2020,1,1,Annual pass,225,3,Debit Card,Offline,700
+226,CD0040,04-11-2019,1,3,Daily Pass,226,4,Online Payment,Online,120
+227,CD0057,04-02-2020,0,2,Parking ticket,227,3,Debit Card,Offline,20
+228,CD0109,09-04-2020,1,1,Annual pass,228,4,Online Payment,Offline,700
+229,CD0063,02-04-2020,1,1,Annual pass,229,1,Cash,Offline,700
+230,CD0085,09-12-2019,1,1,Annual pass,230,1,Cash,Online,700
+231,CD0124,14-04-2020,1,3,Daily Pass,231,4,Online Payment,Online,120
+232,CD0061,18-01-2020,0,2,Parking ticket,232,3,Debit Card,Offline,20
+233,CD0046,13-02-2020,1,1,Annual pass,233,4,Online Payment,Online,700
+234,CD0092,30-01-2020,1,1,Annual pass,234,1,Cash,Online,700
+235,CD0088,20-07-2020,0,3,Daily Pass,235,1,Cash,Offline,150
+236,CD0022,12-06-2020,0,3,Daily Pass,236,4,Online Payment,Online,150
+237,CD0113,22-05-2020,1,2,Parking ticket,237,4,Online Payment,Online,20
+238,CD0050,03-03-2020,0,3,Daily Pass,238,1,Cash,Offline,150
+239,CD0039,13-08-2020,0,3,Daily Pass,239,3,Debit Card,Offline,150
+240,CD0060,02-06-2020,1,2,Parking ticket,240,4,Online Payment,Offline,20
+241,CD0150,20-12-2019,0,2,Parking ticket,241,3,Debit Card,Offline,20
+242,CD0124,18-03-2020,1,1,Annual pass,242,4,Online Payment,Offline,700
+243,CD0008,12-05-2020,1,2,Parking ticket,243,2,Credit Card,Online,20
+244,CD0067,22-02-2020,1,3,Daily Pass,244,2,Credit Card,Online,120
+245,CD0095,29-07-2020,0,1,Annual pass,245,3,Debit Card,Offline,800
+246,CD0089,02-02-2020,1,3,Daily Pass,246,3,Debit Card,Online,120
+247,CD0040,25-11-2019,1,2,Parking ticket,247,2,Credit Card,Offline,20
+248,CD0014,27-07-2020,1,2,Parking ticket,248,4,Online Payment,Offline,20
+249,CD0025,12-07-2020,1,2,Parking ticket,249,3,Debit Card,Offline,20
+250,CD0014,24-06-2020,1,1,Annual pass,250,3,Debit Card,Online,700
+251,CD0068,25-11-2019,1,1,Annual pass,251,4,Online Payment,Online,700
+252,CD0129,19-04-2020,0,2,Parking ticket,252,3,Debit Card,Offline,20
+253,CD0094,14-03-2020,0,3,Daily Pass,253,4,Online Payment,Offline,150
+254,CD0019,15-05-2020,0,1,Annual pass,254,2,Credit Card,Offline,800
+255,CD0053,15-11-2019,1,2,Parking ticket,255,4,Online Payment,Online,20
+256,CD0107,19-03-2020,0,3,Daily Pass,256,4,Online Payment,Offline,150
+257,CD0081,05-07-2020,0,3,Daily Pass,257,2,Credit Card,Online,150
+258,CD0049,29-06-2020,0,3,Daily Pass,258,4,Online Payment,Offline,150
+259,CD0085,26-02-2020,1,1,Annual pass,259,4,Online Payment,Offline,700
+260,CD0092,22-11-2019,1,1,Annual pass,260,1,Cash,Offline,700
+261,CD0034,29-12-2019,0,3,Daily Pass,261,4,Online Payment,Offline,150
+262,CD0147,11-04-2020,1,2,Parking ticket,262,1,Cash,Online,20
+263,CD0027,01-03-2020,1,3,Daily Pass,263,4,Online Payment,Offline,120
+264,CD0031,23-04-2020,0,3,Daily Pass,264,2,Credit Card,Online,150
+265,CD0008,11-01-2020,0,2,Parking ticket,265,2,Credit Card,Offline,20
+266,CD0058,04-07-2020,1,2,Parking ticket,266,1,Cash,Offline,20
+267,CD0120,25-12-2019,1,1,Annual pass,267,3,Debit Card,Online,700
+268,CD0037,19-06-2020,0,1,Annual pass,268,1,Cash,Offline,800
+269,CD0113,30-03-2020,0,2,Parking ticket,269,2,Credit Card,Online,20
+270,CD0144,07-08-2020,0,1,Annual pass,270,1,Cash,Online,800
+271,CD0106,21-06-2020,1,2,Parking ticket,271,1,Cash,Offline,20
+272,CD0037,27-02-2020,0,3,Daily Pass,272,1,Cash,Online,150
+273,CD0058,01-08-2020,1,1,Annual pass,273,1,Cash,Online,700
+274,CD0127,11-03-2020,1,2,Parking ticket,274,1,Cash,Offline,20
+275,CD0127,05-05-2020,0,3,Daily Pass,275,1,Cash,Offline,150
+276,CD0139,21-07-2020,0,1,Annual pass,276,1,Cash,Online,800
+277,CD0091,26-06-2020,1,1,Annual pass,277,2,Credit Card,Offline,700
+278,CD0072,11-03-2020,0,1,Annual pass,278,4,Online Payment,Online,800
+279,CD0112,12-02-2020,0,2,Parking ticket,279,1,Cash,Offline,20
+280,CD0087,03-04-2020,1,1,Annual pass,280,4,Online Payment,Offline,700
+281,CD0031,11-06-2020,0,1,Annual pass,281,1,Cash,Offline,800
+282,CD0141,04-02-2020,1,3,Daily Pass,282,3,Debit Card,Online,120
+283,CD0017,27-05-2020,0,2,Parking ticket,283,4,Online Payment,Offline,20
+284,CD0016,18-02-2020,1,2,Parking ticket,284,1,Cash,Offline,20
+285,CD0146,05-06-2020,1,1,Annual pass,285,4,Online Payment,Offline,700
+286,CD0073,07-03-2020,1,2,Parking ticket,286,1,Cash,Offline,20
+287,CD0122,04-02-2020,1,2,Parking ticket,287,4,Online Payment,Offline,20
+288,CD0012,27-12-2019,0,1,Annual pass,288,2,Credit Card,Online,800
+289,CD0059,17-01-2020,1,1,Annual pass,289,3,Debit Card,Online,700
+290,CD0064,16-07-2020,1,1,Annual pass,290,1,Cash,Online,700
+291,CD0034,27-05-2020,0,1,Annual pass,291,4,Online Payment,Online,800
+292,CD0037,26-05-2020,0,3,Daily Pass,292,3,Debit Card,Online,150
+293,CD0107,08-08-2020,0,2,Parking ticket,293,3,Debit Card,Offline,20
+294,CD0140,06-04-2020,0,1,Annual pass,294,3,Debit Card,Offline,800
+295,CD0099,06-12-2019,0,3,Daily Pass,295,4,Online Payment,Offline,150
+296,CD0045,18-12-2019,1,1,Annual pass,296,3,Debit Card,Online,700
+297,CD0012,16-05-2020,0,3,Daily Pass,297,2,Credit Card,Online,150
+298,CD0074,11-06-2020,1,1,Annual pass,298,4,Online Payment,Online,700
+299,CD0047,18-02-2020,1,1,Annual pass,299,1,Cash,Offline,700
+300,CD0147,14-02-2020,0,2,Parking ticket,300,3,Debit Card,Offline,20
+301,CD0140,21-04-2020,0,2,Parking ticket,301,1,Cash,Online,20
+302,CD0110,04-11-2019,0,1,Annual pass,302,1,Cash,Offline,800
+303,CD0135,14-05-2020,1,2,Parking ticket,303,4,Online Payment,Offline,20
+304,CD0030,16-03-2020,0,1,Annual pass,304,4,Online Payment,Offline,800
+305,CD0024,06-01-2020,0,3,Daily Pass,305,2,Credit Card,Offline,150
+306,CD0020,25-12-2019,1,2,Parking ticket,306,2,Credit Card,Offline,20
+307,CD0147,20-01-2020,0,1,Annual pass,307,2,Credit Card,Online,800
+308,CD0149,19-12-2019,1,3,Daily Pass,308,2,Credit Card,Offline,120
+309,CD0007,04-04-2020,0,2,Parking ticket,309,4,Online Payment,Online,20
+310,CD0146,07-11-2019,1,1,Annual pass,310,4,Online Payment,Offline,700
+311,CD0017,14-07-2020,1,1,Annual pass,311,3,Debit Card,Online,700
+312,CD0082,19-05-2020,1,3,Daily Pass,312,4,Online Payment,Online,120
+313,CD0036,28-01-2020,0,1,Annual pass,313,4,Online Payment,Online,800
+314,CD0035,12-11-2019,1,2,Parking ticket,314,3,Debit Card,Online,20
+315,CD0006,09-05-2020,0,1,Annual pass,315,2,Credit Card,Offline,800
+316,CD0056,17-03-2020,0,2,Parking ticket,316,4,Online Payment,Offline,20
+317,CD0006,27-04-2020,0,2,Parking ticket,317,2,Credit Card,Online,20
+318,CD0077,08-06-2020,1,2,Parking ticket,318,4,Online Payment,Online,20
+319,CD0149,28-02-2020,1,2,Parking ticket,319,2,Credit Card,Offline,20
+320,CD0013,07-11-2019,1,3,Daily Pass,320,1,Cash,Offline,120
+321,CD0018,07-08-2020,0,2,Parking ticket,321,3,Debit Card,Online,20
+322,CD0005,20-11-2019,1,1,Annual pass,322,4,Online Payment,Offline,700
+323,CD0125,09-05-2020,1,2,Parking ticket,323,2,Credit Card,Offline,20
+324,CD0099,04-02-2020,1,3,Daily Pass,324,1,Cash,Offline,120
+325,CD0140,08-02-2020,1,2,Parking ticket,325,2,Credit Card,Online,20
+326,CD0085,20-05-2020,1,2,Parking ticket,326,3,Debit Card,Online,20
+327,CD0052,30-06-2020,0,2,Parking ticket,327,2,Credit Card,Online,20
+328,CD0084,22-04-2020,0,1,Annual pass,328,3,Debit Card,Offline,800
+329,CD0009,27-03-2020,1,3,Daily Pass,329,4,Online Payment,Online,120
+330,CD0148,12-04-2020,0,3,Daily Pass,330,3,Debit Card,Online,150
+331,CD0101,17-01-2020,1,2,Parking ticket,331,1,Cash,Offline,20
+332,CD0005,28-02-2020,0,3,Daily Pass,332,3,Debit Card,Offline,150
+333,CD0103,06-01-2020,0,3,Daily Pass,333,1,Cash,Offline,150
+334,CD0141,03-06-2020,0,3,Daily Pass,334,1,Cash,Offline,150
+335,CD0047,19-07-2020,1,3,Daily Pass,335,2,Credit Card,Online,120
+336,CD0035,10-02-2020,0,2,Parking ticket,336,1,Cash,Offline,20
+337,CD0018,05-04-2020,1,2,Parking ticket,337,1,Cash,Offline,20
+338,CD0020,30-12-2019,1,2,Parking ticket,338,3,Debit Card,Offline,20
+339,CD0116,17-05-2020,1,2,Parking ticket,339,1,Cash,Online,20
+340,CD0140,08-02-2020,1,1,Annual pass,340,3,Debit Card,Offline,700
+341,CD0087,15-02-2020,1,1,Annual pass,341,1,Cash,Offline,700
+342,CD0093,02-12-2019,0,3,Daily Pass,342,2,Credit Card,Offline,150
+343,CD0134,15-01-2020,1,3,Daily Pass,343,4,Online Payment,Online,120
+344,CD0065,19-12-2019,1,2,Parking ticket,344,4,Online Payment,Offline,20
+345,CD0053,18-03-2020,1,3,Daily Pass,345,2,Credit Card,Online,120
+346,CD0117,20-04-2020,1,3,Daily Pass,346,2,Credit Card,Offline,120
+347,CD0001,08-08-2020,1,1,Annual pass,347,3,Debit Card,Online,700
+348,CD0139,13-01-2020,1,1,Annual pass,348,2,Credit Card,Offline,700
+349,CD0017,21-12-2019,0,2,Parking ticket,349,2,Credit Card,Offline,20
+350,CD0051,23-04-2020,1,1,Annual pass,350,2,Credit Card,Online,700
+351,CD0080,15-06-2020,1,2,Parking ticket,351,1,Cash,Offline,20
+352,CD0096,13-04-2020,0,3,Daily Pass,352,2,Credit Card,Offline,150
+353,CD0019,17-01-2020,0,3,Daily Pass,353,4,Online Payment,Offline,150
+354,CD0068,22-05-2020,1,2,Parking ticket,354,3,Debit Card,Online,20
+355,CD0068,02-11-2019,1,2,Parking ticket,355,2,Credit Card,Online,20
+356,CD0113,08-03-2020,0,1,Annual pass,356,3,Debit Card,Online,800
+357,CD0121,10-03-2020,1,1,Annual pass,357,4,Online Payment,Offline,700
+358,CD0124,27-07-2020,1,3,Daily Pass,358,1,Cash,Offline,120
+359,CD0116,04-01-2020,0,1,Annual pass,359,2,Credit Card,Online,800
+360,CD0139,07-08-2020,0,2,Parking ticket,360,3,Debit Card,Offline,20
+361,CD0030,23-05-2020,1,1,Annual pass,361,4,Online Payment,Online,700
+362,CD0030,26-02-2020,1,1,Annual pass,362,4,Online Payment,Offline,700
+363,CD0094,11-11-2019,1,2,Parking ticket,363,3,Debit Card,Online,20
+364,CD0033,30-11-2019,0,3,Daily Pass,364,1,Cash,Online,150
+365,CD0091,03-01-2020,0,2,Parking ticket,365,2,Credit Card,Offline,20
+366,CD0028,18-01-2020,0,1,Annual pass,366,3,Debit Card,Online,800
+367,CD0116,25-12-2019,0,1,Annual pass,367,4,Online Payment,Online,800
+368,CD0052,04-12-2019,1,1,Annual pass,368,2,Credit Card,Offline,700
+369,CD0043,10-06-2020,1,2,Parking ticket,369,2,Credit Card,Offline,20
+370,CD0088,18-02-2020,0,1,Annual pass,370,3,Debit Card,Online,800
+371,CD0078,10-05-2020,1,3,Daily Pass,371,2,Credit Card,Online,120
+372,CD0039,18-07-2020,1,2,Parking ticket,372,2,Credit Card,Online,20
+373,CD0026,04-06-2020,1,1,Annual pass,373,2,Credit Card,Offline,700
+374,CD0056,08-07-2020,1,3,Daily Pass,374,4,Online Payment,Offline,120
+375,CD0025,13-01-2020,1,3,Daily Pass,375,3,Debit Card,Offline,120
+376,CD0065,06-06-2020,0,2,Parking ticket,376,2,Credit Card,Online,20
+377,CD0120,09-05-2020,1,3,Daily Pass,377,2,Credit Card,Offline,120
+378,CD0111,12-12-2019,0,2,Parking ticket,378,2,Credit Card,Online,20
+379,CD0038,23-06-2020,0,3,Daily Pass,379,4,Online Payment,Offline,150
+380,CD0131,14-04-2020,1,2,Parking ticket,380,3,Debit Card,Online,20
+381,CD0079,14-11-2019,1,2,Parking ticket,381,2,Credit Card,Offline,20
+382,CD0097,03-01-2020,1,2,Parking ticket,382,2,Credit Card,Offline,20
+383,CD0150,28-02-2020,0,2,Parking ticket,383,1,Cash,Online,20
+384,CD0071,28-11-2019,1,2,Parking ticket,384,3,Debit Card,Online,20
+385,CD0145,21-05-2020,0,3,Daily Pass,385,2,Credit Card,Offline,150
+386,CD0110,28-01-2020,0,1,Annual pass,386,4,Online Payment,Offline,800
+387,CD0083,05-01-2020,0,1,Annual pass,387,1,Cash,Offline,800
+388,CD0067,13-05-2020,1,3,Daily Pass,388,2,Credit Card,Offline,120
+389,CD0034,29-05-2020,0,2,Parking ticket,389,4,Online Payment,Online,20
+390,CD0059,27-06-2020,0,2,Parking ticket,390,3,Debit Card,Offline,20
+391,CD0052,28-03-2020,1,1,Annual pass,391,3,Debit Card,Offline,700
+392,CD0014,08-06-2020,1,1,Annual pass,392,2,Credit Card,Online,700
+393,CD0043,28-06-2020,1,3,Daily Pass,393,2,Credit Card,Offline,120
+394,CD0094,15-06-2020,0,2,Parking ticket,394,2,Credit Card,Online,20
+395,CD0039,19-04-2020,0,2,Parking ticket,395,4,Online Payment,Offline,20
+396,CD0062,26-03-2020,0,3,Daily Pass,396,2,Credit Card,Offline,150
+397,CD0106,05-08-2020,0,1,Annual pass,397,1,Cash,Online,800
+398,CD0076,11-02-2020,0,1,Annual pass,398,3,Debit Card,Online,800
+399,CD0004,10-04-2020,1,3,Daily Pass,399,4,Online Payment,Offline,120
+400,CD0054,29-06-2020,1,2,Parking ticket,400,3,Debit Card,Online,20
+401,CD0137,08-01-2020,1,2,Parking ticket,401,3,Debit Card,Offline,20
+402,CD0034,01-06-2020,1,3,Daily Pass,402,4,Online Payment,Offline,120
+403,CD0093,05-04-2020,0,3,Daily Pass,403,4,Online Payment,Offline,150
+404,CD0006,13-12-2019,0,2,Parking ticket,404,2,Credit Card,Offline,20
+405,CD0078,03-12-2019,1,2,Parking ticket,405,4,Online Payment,Online,20
+406,CD0003,13-12-2019,1,2,Parking ticket,406,3,Debit Card,Offline,20
+407,CD0052,02-08-2020,1,3,Daily Pass,407,4,Online Payment,Offline,120
+408,CD0080,13-11-2019,0,3,Daily Pass,408,4,Online Payment,Online,150
+409,CD0041,17-01-2020,1,2,Parking ticket,409,3,Debit Card,Online,20
+410,CD0006,23-02-2020,0,3,Daily Pass,410,4,Online Payment,Offline,150
+411,CD0064,13-04-2020,1,3,Daily Pass,411,1,Cash,Offline,120
+412,CD0134,23-03-2020,0,3,Daily Pass,412,1,Cash,Online,150
+413,CD0138,02-05-2020,1,3,Daily Pass,413,3,Debit Card,Offline,120
+414,CD0008,30-04-2020,1,2,Parking ticket,414,1,Cash,Online,20
+415,CD0041,07-06-2020,0,1,Annual pass,415,4,Online Payment,Online,800
+416,CD0009,29-04-2020,0,1,Annual pass,416,2,Credit Card,Offline,800
+417,CD0038,31-12-2019,1,2,Parking ticket,417,1,Cash,Offline,20
+418,CD0053,07-03-2020,1,2,Parking ticket,418,2,Credit Card,Online,20
+419,CD0035,15-11-2019,0,2,Parking ticket,419,4,Online Payment,Offline,20
+420,CD0128,06-05-2020,0,1,Annual pass,420,4,Online Payment,Offline,800
+421,CD0074,07-02-2020,0,3,Daily Pass,421,3,Debit Card,Online,150
+422,CD0030,05-03-2020,1,3,Daily Pass,422,4,Online Payment,Offline,120
+423,CD0092,02-06-2020,0,1,Annual pass,423,2,Credit Card,Offline,800
+424,CD0055,25-04-2020,1,3,Daily Pass,424,2,Credit Card,Online,120
+425,CD0007,16-01-2020,0,1,Annual pass,425,1,Cash,Online,800
+426,CD0094,10-04-2020,1,2,Parking ticket,426,3,Debit Card,Offline,20
+427,CD0117,27-06-2020,0,1,Annual pass,427,4,Online Payment,Offline,800
+428,CD0031,21-03-2020,0,3,Daily Pass,428,4,Online Payment,Offline,150
+429,CD0067,08-07-2020,0,3,Daily Pass,429,3,Debit Card,Online,150
+430,CD0064,15-01-2020,1,2,Parking ticket,430,3,Debit Card,Offline,20
+431,CD0130,29-04-2020,0,2,Parking ticket,431,1,Cash,Offline,20
+432,CD0092,18-06-2020,0,1,Annual pass,432,4,Online Payment,Online,800
+433,CD0032,12-07-2020,1,3,Daily Pass,433,2,Credit Card,Offline,120
+434,CD0127,20-05-2020,0,2,Parking ticket,434,4,Online Payment,Online,20
+435,CD0098,11-07-2020,0,2,Parking ticket,435,1,Cash,Offline,20
+436,CD0094,03-01-2020,0,3,Daily Pass,436,2,Credit Card,Offline,150
+437,CD0027,06-08-2020,1,2,Parking ticket,437,2,Credit Card,Online,20
+438,CD0143,09-04-2020,0,3,Daily Pass,438,1,Cash,Online,150
+439,CD0103,27-06-2020,0,2,Parking ticket,439,1,Cash,Online,20
+440,CD0025,21-03-2020,1,2,Parking ticket,440,3,Debit Card,Offline,20
+441,CD0129,11-05-2020,1,1,Annual pass,441,2,Credit Card,Online,700
+442,CD0017,13-04-2020,1,2,Parking ticket,442,4,Online Payment,Offline,20
+443,CD0120,02-04-2020,1,1,Annual pass,443,2,Credit Card,Offline,700
+444,CD0087,19-03-2020,1,3,Daily Pass,444,1,Cash,Online,120
+445,CD0018,27-04-2020,0,1,Annual pass,445,3,Debit Card,Online,800
+446,CD0084,19-07-2020,1,1,Annual pass,446,3,Debit Card,Online,700
+447,CD0097,13-08-2020,1,2,Parking ticket,447,3,Debit Card,Offline,20
+448,CD0089,28-04-2020,1,3,Daily Pass,448,4,Online Payment,Online,120
+449,CD0132,19-02-2020,0,2,Parking ticket,449,2,Credit Card,Online,20
+450,CD0124,02-01-2020,0,1,Annual pass,450,3,Debit Card,Online,800
+451,CD0100,20-07-2020,1,2,Parking ticket,451,3,Debit Card,Offline,20
+452,CD0142,21-07-2020,1,1,Annual pass,452,4,Online Payment,Offline,700
+453,CD0124,30-06-2020,1,1,Annual pass,453,3,Debit Card,Offline,700
+454,CD0067,18-02-2020,1,3,Daily Pass,454,1,Cash,Online,120
+455,CD0092,30-04-2020,1,1,Annual pass,455,3,Debit Card,Online,700
+456,CD0080,13-03-2020,0,3,Daily Pass,456,1,Cash,Offline,150
+457,CD0053,01-07-2020,0,3,Daily Pass,457,2,Credit Card,Online,150
+458,CD0027,28-11-2019,0,3,Daily Pass,458,2,Credit Card,Online,150
+459,CD0094,03-04-2020,1,1,Annual pass,459,2,Credit Card,Offline,700
+460,CD0073,11-11-2019,1,3,Daily Pass,460,1,Cash,Online,120
+461,CD0078,02-11-2019,1,1,Annual pass,461,4,Online Payment,Online,700
+462,CD0043,24-06-2020,0,3,Daily Pass,462,3,Debit Card,Offline,150
+463,CD0133,30-01-2020,1,3,Daily Pass,463,4,Online Payment,Offline,120
+464,CD0122,04-03-2020,0,3,Daily Pass,464,1,Cash,Online,150
+465,CD0059,23-05-2020,0,1,Annual pass,465,1,Cash,Online,800
+466,CD0103,25-07-2020,0,1,Annual pass,466,2,Credit Card,Offline,800
+467,CD0118,19-01-2020,1,3,Daily Pass,467,3,Debit Card,Online,120
+468,CD0145,29-06-2020,0,2,Parking ticket,468,1,Cash,Offline,20
+469,CD0127,20-04-2020,0,1,Annual pass,469,4,Online Payment,Online,800
+470,CD0134,23-04-2020,0,2,Parking ticket,470,3,Debit Card,Online,20
+471,CD0035,10-12-2019,1,2,Parking ticket,471,1,Cash,Online,20
+472,CD0032,17-06-2020,0,3,Daily Pass,472,2,Credit Card,Offline,150
+473,CD0031,10-11-2019,0,3,Daily Pass,473,2,Credit Card,Online,150
+474,CD0081,24-06-2020,1,1,Annual pass,474,4,Online Payment,Online,700
+475,CD0109,18-05-2020,1,1,Annual pass,475,2,Credit Card,Offline,700
+476,CD0082,30-06-2020,0,1,Annual pass,476,2,Credit Card,Offline,800
+477,CD0013,30-11-2019,0,2,Parking ticket,477,4,Online Payment,Online,20
+478,CD0032,22-04-2020,1,2,Parking ticket,478,2,Credit Card,Online,20
+479,CD0107,13-12-2019,0,3,Daily Pass,479,4,Online Payment,Offline,150
+480,CD0022,02-12-2019,0,1,Annual pass,480,1,Cash,Offline,800
+481,CD0036,02-07-2020,0,2,Parking ticket,481,2,Credit Card,Offline,20
+482,CD0057,07-07-2020,1,3,Daily Pass,482,2,Credit Card,Offline,120
+483,CD0020,16-04-2020,0,3,Daily Pass,483,3,Debit Card,Offline,150
+484,CD0050,01-05-2020,0,1,Annual pass,484,3,Debit Card,Online,800
+485,CD0070,22-06-2020,1,2,Parking ticket,485,3,Debit Card,Offline,20
+486,CD0031,21-06-2020,0,2,Parking ticket,486,4,Online Payment,Offline,20
+487,CD0049,05-01-2020,0,2,Parking ticket,487,3,Debit Card,Offline,20
+488,CD0067,09-07-2020,0,1,Annual pass,488,2,Credit Card,Online,800
+489,CD0056,28-12-2019,1,2,Parking ticket,489,2,Credit Card,Online,20
+490,CD0149,13-07-2020,0,3,Daily Pass,490,2,Credit Card,Online,150
+491,CD0077,30-12-2019,1,3,Daily Pass,491,1,Cash,Offline,120
+492,CD0113,08-12-2019,0,1,Annual pass,492,4,Online Payment,Online,800
+493,CD0087,21-03-2020,0,3,Daily Pass,493,1,Cash,Online,150
+494,CD0082,16-06-2020,0,2,Parking ticket,494,3,Debit Card,Offline,20
+495,CD0032,21-01-2020,0,3,Daily Pass,495,3,Debit Card,Offline,150
+496,CD0075,20-04-2020,0,3,Daily Pass,496,2,Credit Card,Online,150
+497,CD0055,28-02-2020,1,2,Parking ticket,497,1,Cash,Offline,20
+498,CD0062,16-06-2020,0,3,Daily Pass,498,3,Debit Card,Online,150
+499,CD0109,09-12-2019,1,1,Annual pass,499,1,Cash,Offline,700
+500,CD0026,01-06-2020,0,2,Parking ticket,500,1,Cash,Online,20
+501,CD0033,08-08-2020,1,2,Parking ticket,501,1,Cash,Offline,20
+502,CD0002,25-11-2019,0,1,Annual pass,502,1,Cash,Offline,800
+503,CD0109,13-04-2020,0,3,Daily Pass,503,3,Debit Card,Offline,150
+504,CD0103,21-03-2020,0,1,Annual pass,504,2,Credit Card,Offline,800
+505,CD0146,26-01-2020,1,2,Parking ticket,505,1,Cash,Offline,20
+506,CD0047,27-03-2020,0,2,Parking ticket,506,1,Cash,Online,20
+507,CD0149,08-05-2020,0,1,Annual pass,507,2,Credit Card,Online,800
+508,CD0028,12-07-2020,0,3,Daily Pass,508,3,Debit Card,Online,150
+509,CD0093,19-01-2020,0,3,Daily Pass,509,3,Debit Card,Offline,150
+510,CD0150,20-11-2019,0,1,Annual pass,510,3,Debit Card,Offline,800
+511,CD0036,10-05-2020,0,1,Annual pass,511,4,Online Payment,Online,800
+512,CD0133,13-07-2020,1,1,Annual pass,512,3,Debit Card,Offline,700
+513,CD0037,21-03-2020,0,1,Annual pass,513,4,Online Payment,Online,800
+514,CD0089,10-11-2019,0,3,Daily Pass,514,3,Debit Card,Offline,150
+515,CD0113,20-02-2020,0,1,Annual pass,515,1,Cash,Online,800
+516,CD0102,15-01-2020,0,3,Daily Pass,516,4,Online Payment,Online,150
+517,CD0083,25-06-2020,1,2,Parking ticket,517,1,Cash,Offline,20
+518,CD0143,01-02-2020,1,2,Parking ticket,518,1,Cash,Offline,20
+519,CD0048,28-01-2020,0,2,Parking ticket,519,4,Online Payment,Online,20
+520,CD0096,23-01-2020,0,1,Annual pass,520,4,Online Payment,Online,800
+521,CD0141,14-01-2020,0,1,Annual pass,521,2,Credit Card,Offline,800
+522,CD0005,12-03-2020,1,1,Annual pass,522,3,Debit Card,Online,700
+523,CD0084,06-03-2020,1,3,Daily Pass,523,3,Debit Card,Online,120
+524,CD0120,04-08-2020,1,3,Daily Pass,524,3,Debit Card,Online,120
+525,CD0008,06-05-2020,0,2,Parking ticket,525,1,Cash,Online,20
+526,CD0014,24-05-2020,1,3,Daily Pass,526,2,Credit Card,Online,120
+527,CD0141,19-12-2019,0,3,Daily Pass,527,2,Credit Card,Offline,150
+528,CD0049,07-02-2020,0,3,Daily Pass,528,2,Credit Card,Online,150
+529,CD0082,13-07-2020,1,2,Parking ticket,529,1,Cash,Offline,20
+530,CD0072,14-06-2020,0,1,Annual pass,530,3,Debit Card,Online,800
+531,CD0031,23-05-2020,0,1,Annual pass,531,2,Credit Card,Online,800
+532,CD0097,28-11-2019,1,1,Annual pass,532,2,Credit Card,Online,700
+533,CD0031,30-12-2019,0,2,Parking ticket,533,3,Debit Card,Offline,20
+534,CD0064,27-07-2020,0,1,Annual pass,534,2,Credit Card,Online,800
+535,CD0047,02-05-2020,1,1,Annual pass,535,2,Credit Card,Offline,700
+536,CD0083,09-06-2020,0,3,Daily Pass,536,2,Credit Card,Offline,150
+537,CD0021,04-12-2019,1,2,Parking ticket,537,2,Credit Card,Online,20
+538,CD0073,29-01-2020,1,3,Daily Pass,538,2,Credit Card,Offline,120
+539,CD0150,09-03-2020,0,1,Annual pass,539,1,Cash,Offline,800
+540,CD0148,07-01-2020,1,3,Daily Pass,540,3,Debit Card,Online,120
+541,CD00010,20-05-2020,1,1,Annual pass,541,4,Online Payment,Online,700
+542,CD0075,16-07-2020,0,1,Annual pass,542,1,Cash,Online,800
+543,CD0064,03-02-2020,1,3,Daily Pass,543,3,Debit Card,Offline,120
+544,CD0019,19-06-2020,0,3,Daily Pass,544,2,Credit Card,Offline,150
+545,CD0093,06-11-2019,0,2,Parking ticket,545,1,Cash,Online,20
+546,CD0007,18-01-2020,0,1,Annual pass,546,1,Cash,Offline,800
+547,CD0095,26-02-2020,0,1,Annual pass,547,1,Cash,Online,800
+548,CD0039,28-03-2020,0,3,Daily Pass,548,2,Credit Card,Offline,150
+549,CD0002,09-03-2020,1,1,Annual pass,549,2,Credit Card,Online,700
+550,CD0110,15-07-2020,1,1,Annual pass,550,2,Credit Card,Online,700
+551,CD0132,26-05-2020,1,2,Parking ticket,551,1,Cash,Offline,20
+552,CD0112,18-06-2020,1,3,Daily Pass,552,1,Cash,Online,120
+553,CD0083,01-08-2020,1,2,Parking ticket,553,4,Online Payment,Offline,20
+554,CD0131,03-04-2020,1,3,Daily Pass,554,4,Online Payment,Online,120
+555,CD0107,27-02-2020,1,1,Annual pass,555,1,Cash,Online,700
+556,CD0113,10-08-2020,0,3,Daily Pass,556,4,Online Payment,Offline,150
+557,CD0134,01-12-2019,1,1,Annual pass,557,3,Debit Card,Offline,700
+558,CD0145,13-07-2020,0,1,Annual pass,558,2,Credit Card,Offline,800
+559,CD0025,12-01-2020,0,3,Daily Pass,559,2,Credit Card,Online,150
+560,CD0058,03-02-2020,1,3,Daily Pass,560,3,Debit Card,Online,120
+561,CD0031,24-01-2020,0,2,Parking ticket,561,3,Debit Card,Offline,20
+562,CD0015,02-12-2019,1,1,Annual pass,562,4,Online Payment,Offline,700
+563,CD0047,29-07-2020,1,1,Annual pass,563,2,Credit Card,Online,700
+564,CD0071,29-01-2020,1,2,Parking ticket,564,3,Debit Card,Offline,20
+565,CD0074,16-05-2020,1,2,Parking ticket,565,2,Credit Card,Online,20
+566,CD0071,09-12-2019,1,3,Daily Pass,566,3,Debit Card,Offline,120
+567,CD0109,15-04-2020,1,2,Parking ticket,567,1,Cash,Offline,20
+568,CD0009,29-07-2020,0,3,Daily Pass,568,4,Online Payment,Online,150
+569,CD0023,02-08-2020,1,2,Parking ticket,569,4,Online Payment,Online,20
+570,CD0032,12-04-2020,1,1,Annual pass,570,3,Debit Card,Offline,700
+571,CD0077,08-03-2020,0,2,Parking ticket,571,2,Credit Card,Offline,20
+572,CD0124,14-02-2020,1,3,Daily Pass,572,2,Credit Card,Offline,120
+573,CD0118,18-12-2019,0,3,Daily Pass,573,4,Online Payment,Offline,150
+574,CD0005,25-07-2020,0,2,Parking ticket,574,2,Credit Card,Offline,20
+575,CD0013,24-04-2020,0,3,Daily Pass,575,4,Online Payment,Offline,150
+576,CD0026,28-07-2020,0,3,Daily Pass,576,1,Cash,Offline,150
+577,CD0056,05-08-2020,0,3,Daily Pass,577,3,Debit Card,Online,150
+578,CD0097,10-12-2019,1,1,Annual pass,578,3,Debit Card,Offline,700
+579,CD0102,31-03-2020,0,3,Daily Pass,579,1,Cash,Online,150
+580,CD0145,12-08-2020,0,2,Parking ticket,580,4,Online Payment,Online,20
+581,CD0039,07-11-2019,1,2,Parking ticket,581,1,Cash,Online,20
+582,CD0011,31-05-2020,1,2,Parking ticket,582,4,Online Payment,Offline,20
+583,CD0007,06-02-2020,0,3,Daily Pass,583,2,Credit Card,Offline,150
+584,CD0079,10-08-2020,1,2,Parking ticket,584,2,Credit Card,Online,20
+585,CD0091,06-11-2019,0,3,Daily Pass,585,3,Debit Card,Offline,150
+586,CD0143,30-05-2020,0,3,Daily Pass,586,4,Online Payment,Online,150
+587,CD0018,25-07-2020,1,3,Daily Pass,587,3,Debit Card,Offline,120
+588,CD0042,24-02-2020,0,3,Daily Pass,588,2,Credit Card,Offline,150
+589,CD0105,05-05-2020,1,1,Annual pass,589,1,Cash,Online,700
+590,CD0107,11-12-2019,0,1,Annual pass,590,1,Cash,Offline,800
+591,CD0091,13-08-2020,0,3,Daily Pass,591,3,Debit Card,Offline,150
+592,CD0002,11-05-2020,0,1,Annual pass,592,1,Cash,Offline,800
+593,CD0050,13-05-2020,0,2,Parking ticket,593,4,Online Payment,Online,20
+594,CD0102,18-05-2020,0,3,Daily Pass,594,3,Debit Card,Offline,150
+595,CD0147,22-03-2020,1,3,Daily Pass,595,4,Online Payment,Online,120
+596,CD0145,01-12-2019,1,3,Daily Pass,596,4,Online Payment,Online,120
+597,CD0092,06-04-2020,1,3,Daily Pass,597,3,Debit Card,Online,120
+598,CD0060,14-05-2020,0,3,Daily Pass,598,3,Debit Card,Offline,150
+599,CD0011,11-12-2019,0,3,Daily Pass,599,4,Online Payment,Online,150
+600,CD0103,27-12-2019,0,1,Annual pass,600,1,Cash,Online,800
+601,CD0125,03-06-2020,1,3,Daily Pass,601,4,Online Payment,Online,120
+602,CD0009,10-03-2020,1,1,Annual pass,602,3,Debit Card,Offline,700
+603,CD0057,13-08-2020,1,2,Parking ticket,603,3,Debit Card,Online,20
+604,CD0073,29-01-2020,0,3,Daily Pass,604,3,Debit Card,Online,150
+605,CD0134,23-06-2020,1,1,Annual pass,605,4,Online Payment,Offline,700
+606,CD0026,07-05-2020,1,3,Daily Pass,606,2,Credit Card,Offline,120
+607,CD0090,21-12-2019,0,1,Annual pass,607,2,Credit Card,Offline,800
+608,CD0082,30-05-2020,1,1,Annual pass,608,4,Online Payment,Online,700
+609,CD0125,21-11-2019,0,3,Daily Pass,609,3,Debit Card,Online,150
+610,CD0013,22-07-2020,1,3,Daily Pass,610,1,Cash,Online,120
+611,CD0016,07-01-2020,0,3,Daily Pass,611,4,Online Payment,Online,150
+612,CD0035,03-02-2020,1,1,Annual pass,612,2,Credit Card,Online,700
+613,CD0105,13-11-2019,1,1,Annual pass,613,4,Online Payment,Online,700
+614,CD0114,30-07-2020,1,1,Annual pass,614,1,Cash,Offline,700
+615,CD0026,11-12-2019,0,3,Daily Pass,615,1,Cash,Online,150
+616,CD0016,07-02-2020,1,1,Annual pass,616,3,Debit Card,Online,700
+617,CD0061,16-02-2020,0,3,Daily Pass,617,2,Credit Card,Online,150
+618,CD0090,08-11-2019,1,2,Parking ticket,618,2,Credit Card,Offline,20
+619,CD0040,24-11-2019,1,1,Annual pass,619,3,Debit Card,Offline,700
+620,CD0007,15-03-2020,0,2,Parking ticket,620,2,Credit Card,Offline,20
+621,CD0092,30-04-2020,1,2,Parking ticket,621,2,Credit Card,Offline,20
+622,CD0059,02-07-2020,0,3,Daily Pass,622,4,Online Payment,Online,150
+623,CD0146,27-01-2020,0,2,Parking ticket,623,4,Online Payment,Online,20
+624,CD0078,20-07-2020,0,3,Daily Pass,624,1,Cash,Online,150
+625,CD0080,28-05-2020,0,2,Parking ticket,625,2,Credit Card,Online,20
+626,CD0036,28-02-2020,0,2,Parking ticket,626,2,Credit Card,Offline,20
+627,CD0119,17-07-2020,0,2,Parking ticket,627,4,Online Payment,Online,20
+628,CD0097,29-02-2020,1,1,Annual pass,628,4,Online Payment,Offline,700
+629,CD0023,19-03-2020,0,2,Parking ticket,629,1,Cash,Offline,20
+630,CD0066,22-12-2019,0,2,Parking ticket,630,3,Debit Card,Online,20
+631,CD0127,27-12-2019,1,3,Daily Pass,631,2,Credit Card,Offline,120
+632,CD0061,10-05-2020,0,2,Parking ticket,632,4,Online Payment,Offline,20
+633,CD0140,11-02-2020,0,2,Parking ticket,633,3,Debit Card,Offline,20
+634,CD0030,10-02-2020,1,1,Annual pass,634,3,Debit Card,Offline,700
+635,CD0137,17-01-2020,1,3,Daily Pass,635,1,Cash,Offline,120
+636,CD0094,16-12-2019,1,1,Annual pass,636,2,Credit Card,Offline,700
+637,CD0142,14-03-2020,0,1,Annual pass,637,4,Online Payment,Offline,800
+638,CD0025,26-12-2019,0,3,Daily Pass,638,3,Debit Card,Offline,150
+639,CD0046,14-03-2020,1,1,Annual pass,639,3,Debit Card,Offline,700
+640,CD0124,09-05-2020,1,1,Annual pass,640,1,Cash,Online,700
+641,CD0043,14-01-2020,0,3,Daily Pass,641,1,Cash,Online,150
+642,CD0111,01-11-2019,1,2,Parking ticket,642,4,Online Payment,Online,20
+643,CD0032,27-04-2020,0,3,Daily Pass,643,3,Debit Card,Online,150
+644,CD0103,17-01-2020,1,1,Annual pass,644,1,Cash,Offline,700
+645,CD0114,03-08-2020,1,2,Parking ticket,645,1,Cash,Online,20
+646,CD0090,04-04-2020,1,2,Parking ticket,646,3,Debit Card,Offline,20
+647,CD0055,08-04-2020,1,1,Annual pass,647,2,Credit Card,Offline,700
+648,CD0114,20-11-2019,1,2,Parking ticket,648,3,Debit Card,Online,20
+649,CD0022,29-12-2019,0,1,Annual pass,649,4,Online Payment,Offline,800
+650,CD0030,30-04-2020,1,3,Daily Pass,650,2,Credit Card,Online,120
+651,CD0013,20-05-2020,0,1,Annual pass,651,1,Cash,Online,800
+652,CD0026,17-04-2020,1,1,Annual pass,652,3,Debit Card,Offline,700
+653,CD0022,25-12-2019,1,3,Daily Pass,653,1,Cash,Online,120
+654,CD0071,30-04-2020,0,3,Daily Pass,654,4,Online Payment,Offline,150
+655,CD0114,31-05-2020,1,2,Parking ticket,655,3,Debit Card,Offline,20
+656,CD0033,03-07-2020,1,3,Daily Pass,656,2,Credit Card,Online,120
+657,CD0102,23-01-2020,1,3,Daily Pass,657,1,Cash,Online,120
+658,CD0122,21-06-2020,1,3,Daily Pass,658,1,Cash,Offline,120
+659,CD0087,25-03-2020,0,2,Parking ticket,659,1,Cash,Offline,20
+660,CD0103,10-07-2020,1,3,Daily Pass,660,2,Credit Card,Offline,120
+661,CD0122,20-06-2020,0,3,Daily Pass,661,3,Debit Card,Online,150
+662,CD0123,01-04-2020,1,3,Daily Pass,662,4,Online Payment,Online,120
+663,CD0148,12-04-2020,0,2,Parking ticket,663,1,Cash,Offline,20
+664,CD0125,03-07-2020,1,2,Parking ticket,664,3,Debit Card,Online,20
+665,CD0105,29-03-2020,1,1,Annual pass,665,1,Cash,Offline,700
+666,CD0048,22-06-2020,0,2,Parking ticket,666,1,Cash,Online,20
+667,CD0115,06-08-2020,0,1,Annual pass,667,4,Online Payment,Online,800
+668,CD0126,12-01-2020,0,3,Daily Pass,668,2,Credit Card,Online,150
+669,CD0136,12-01-2020,0,2,Parking ticket,669,2,Credit Card,Offline,20
+670,CD0117,31-07-2020,1,2,Parking ticket,670,1,Cash,Offline,20
+671,CD0004,10-07-2020,0,2,Parking ticket,671,4,Online Payment,Online,20
+672,CD0070,27-04-2020,1,1,Annual pass,672,1,Cash,Offline,700
+673,CD0133,02-12-2019,0,2,Parking ticket,673,3,Debit Card,Offline,20
+674,CD0098,13-11-2019,0,2,Parking ticket,674,2,Credit Card,Offline,20
+675,CD0110,25-01-2020,1,2,Parking ticket,675,1,Cash,Offline,20
+676,CD0105,12-06-2020,1,1,Annual pass,676,2,Credit Card,Offline,700
+677,CD0014,12-08-2020,0,1,Annual pass,677,2,Credit Card,Online,800
+678,CD0112,23-03-2020,1,3,Daily Pass,678,1,Cash,Offline,120
+679,CD0118,21-05-2020,1,3,Daily Pass,679,2,Credit Card,Offline,120
+680,CD0065,02-12-2019,1,3,Daily Pass,680,4,Online Payment,Online,120
+681,CD0006,26-12-2019,0,3,Daily Pass,681,3,Debit Card,Offline,150
+682,CD0136,22-12-2019,0,2,Parking ticket,682,4,Online Payment,Online,20
+683,CD0135,23-03-2020,1,1,Annual pass,683,2,Credit Card,Online,700
+684,CD0033,31-05-2020,1,2,Parking ticket,684,1,Cash,Offline,20
+685,CD0011,19-05-2020,1,3,Daily Pass,685,4,Online Payment,Online,120
+686,CD0106,04-01-2020,1,3,Daily Pass,686,3,Debit Card,Online,120
+687,CD0107,10-07-2020,1,3,Daily Pass,687,2,Credit Card,Offline,120
+688,CD0078,15-01-2020,1,1,Annual pass,688,4,Online Payment,Offline,700
+689,CD0035,25-01-2020,1,3,Daily Pass,689,2,Credit Card,Online,120
+690,CD0068,17-11-2019,0,3,Daily Pass,690,4,Online Payment,Offline,150
+691,CD0053,02-08-2020,0,1,Annual pass,691,1,Cash,Offline,800
+692,CD0098,25-06-2020,0,1,Annual pass,692,2,Credit Card,Offline,800
+693,CD0013,04-08-2020,1,3,Daily Pass,693,1,Cash,Offline,120
+694,CD0143,11-04-2020,0,3,Daily Pass,694,3,Debit Card,Offline,150
+695,CD0099,28-06-2020,1,1,Annual pass,695,2,Credit Card,Online,700
+696,CD0080,27-12-2019,0,3,Daily Pass,696,1,Cash,Online,150
+697,CD0115,04-05-2020,0,1,Annual pass,697,4,Online Payment,Offline,800
+698,CD0121,31-05-2020,0,2,Parking ticket,698,3,Debit Card,Online,20
+699,CD0001,13-03-2020,0,3,Daily Pass,699,4,Online Payment,Online,150
+700,CD0147,12-04-2020,0,2,Parking ticket,700,2,Credit Card,Offline,20
+701,CD0088,11-06-2020,1,3,Daily Pass,701,1,Cash,Online,120
+702,CD0122,25-01-2020,0,2,Parking ticket,702,3,Debit Card,Offline,20
+703,CD0101,20-12-2019,1,3,Daily Pass,703,2,Credit Card,Online,120
+704,CD0148,02-05-2020,1,2,Parking ticket,704,4,Online Payment,Offline,20
+705,CD0023,05-05-2020,1,1,Annual pass,705,1,Cash,Online,700
+706,CD0093,13-12-2019,0,3,Daily Pass,706,2,Credit Card,Online,150
+707,CD0053,21-06-2020,1,3,Daily Pass,707,2,Credit Card,Online,120
+708,CD0014,12-04-2020,1,2,Parking ticket,708,4,Online Payment,Online,20
+709,CD0083,28-07-2020,1,1,Annual pass,709,2,Credit Card,Offline,700
+710,CD0067,02-02-2020,0,3,Daily Pass,710,2,Credit Card,Offline,150
+711,CD0148,17-03-2020,1,3,Daily Pass,711,3,Debit Card,Offline,120
+712,CD0113,28-07-2020,1,2,Parking ticket,712,4,Online Payment,Online,20
+713,CD0035,16-05-2020,0,2,Parking ticket,713,2,Credit Card,Online,20
+714,CD00010,20-11-2019,1,3,Daily Pass,714,3,Debit Card,Online,120
+715,CD0144,03-02-2020,0,2,Parking ticket,715,2,Credit Card,Online,20
+716,CD0082,19-02-2020,1,1,Annual pass,716,1,Cash,Offline,700
+717,CD0060,29-03-2020,1,2,Parking ticket,717,1,Cash,Online,20
+718,CD0118,30-01-2020,0,1,Annual pass,718,4,Online Payment,Online,800
+719,CD0118,24-11-2019,0,2,Parking ticket,719,4,Online Payment,Online,20
+720,CD0144,17-05-2020,0,2,Parking ticket,720,1,Cash,Online,20
+721,CD0084,24-06-2020,1,2,Parking ticket,721,1,Cash,Offline,20
+722,CD0135,10-06-2020,0,1,Annual pass,722,1,Cash,Offline,800
+723,CD0149,19-03-2020,1,2,Parking ticket,723,1,Cash,Offline,20
+724,CD0140,23-12-2019,1,2,Parking ticket,724,4,Online Payment,Online,20
+725,CD0075,28-12-2019,1,1,Annual pass,725,2,Credit Card,Online,700
+726,CD0128,27-12-2019,0,3,Daily Pass,726,4,Online Payment,Offline,150
+727,CD0073,02-05-2020,1,3,Daily Pass,727,3,Debit Card,Offline,120
+728,CD0058,17-02-2020,1,2,Parking ticket,728,1,Cash,Online,20
+729,CD0024,09-01-2020,1,1,Annual pass,729,4,Online Payment,Online,700
+730,CD0061,16-03-2020,0,1,Annual pass,730,4,Online Payment,Online,800
+731,CD0038,21-06-2020,1,1,Annual pass,731,3,Debit Card,Online,700
+732,CD0066,18-11-2019,0,1,Annual pass,732,3,Debit Card,Offline,800
+733,CD0089,10-03-2020,1,1,Annual pass,733,2,Credit Card,Online,700
+734,CD0057,23-05-2020,0,1,Annual pass,734,4,Online Payment,Online,800
+735,CD0076,16-04-2020,0,3,Daily Pass,735,4,Online Payment,Offline,150
+736,CD0024,15-02-2020,0,2,Parking ticket,736,3,Debit Card,Offline,20
+737,CD0116,18-12-2019,1,1,Annual pass,737,4,Online Payment,Online,700
+738,CD0001,18-06-2020,0,2,Parking ticket,738,4,Online Payment,Offline,20
+739,CD0014,07-06-2020,1,3,Daily Pass,739,1,Cash,Offline,120
+740,CD0134,05-01-2020,0,3,Daily Pass,740,4,Online Payment,Online,150
+741,CD0119,10-07-2020,0,3,Daily Pass,741,3,Debit Card,Offline,150
+742,CD0036,15-02-2020,0,3,Daily Pass,742,1,Cash,Online,150
+743,CD0132,23-03-2020,0,3,Daily Pass,743,2,Credit Card,Online,150
+744,CD0113,05-04-2020,0,3,Daily Pass,744,3,Debit Card,Online,150
+745,CD0046,06-08-2020,1,3,Daily Pass,745,2,Credit Card,Offline,120
+746,CD0083,16-05-2020,0,1,Annual pass,746,2,Credit Card,Offline,800
+747,CD0059,23-06-2020,0,3,Daily Pass,747,4,Online Payment,Online,150
+748,CD0051,30-06-2020,0,2,Parking ticket,748,4,Online Payment,Online,20
+749,CD0026,08-12-2019,0,1,Annual pass,749,2,Credit Card,Online,800
+750,CD0125,04-05-2020,1,2,Parking ticket,750,1,Cash,Offline,20
+751,CD0039,09-04-2020,0,1,Annual pass,751,3,Debit Card,Online,800
+752,CD0034,22-03-2020,1,3,Daily Pass,752,2,Credit Card,Online,120
+753,CD0016,25-03-2020,0,2,Parking ticket,753,3,Debit Card,Offline,20
+754,CD0080,05-05-2020,1,3,Daily Pass,754,3,Debit Card,Online,120
+755,CD0022,21-05-2020,0,1,Annual pass,755,1,Cash,Offline,800
+756,CD0043,21-12-2019,0,3,Daily Pass,756,1,Cash,Online,150
+757,CD0137,10-03-2020,0,2,Parking ticket,757,1,Cash,Online,20
+758,CD0102,29-07-2020,1,2,Parking ticket,758,4,Online Payment,Offline,20
+759,CD0121,26-11-2019,1,1,Annual pass,759,3,Debit Card,Online,700
+760,CD0063,30-11-2019,1,2,Parking ticket,760,1,Cash,Offline,20
+761,CD0149,25-05-2020,1,1,Annual pass,761,1,Cash,Offline,700
+762,CD0045,29-02-2020,0,2,Parking ticket,762,4,Online Payment,Online,20
+763,CD0083,21-07-2020,1,3,Daily Pass,763,3,Debit Card,Offline,120
+764,CD0096,13-04-2020,1,2,Parking ticket,764,3,Debit Card,Offline,20
+765,CD0075,15-11-2019,1,3,Daily Pass,765,1,Cash,Offline,120
+766,CD0030,02-12-2019,0,2,Parking ticket,766,1,Cash,Online,20
+767,CD0022,28-03-2020,0,3,Daily Pass,767,1,Cash,Offline,150
+768,CD0007,28-03-2020,0,3,Daily Pass,768,1,Cash,Online,150
+769,CD0035,04-07-2020,1,1,Annual pass,769,4,Online Payment,Online,700
+770,CD0089,21-01-2020,0,2,Parking ticket,770,1,Cash,Offline,20
+771,CD0150,25-03-2020,0,3,Daily Pass,771,3,Debit Card,Online,150
+772,CD0022,06-11-2019,0,3,Daily Pass,772,3,Debit Card,Online,150
+773,CD0104,27-12-2019,1,1,Annual pass,773,1,Cash,Offline,700
+774,CD0073,16-01-2020,1,2,Parking ticket,774,1,Cash,Offline,20
+775,CD0014,29-07-2020,0,3,Daily Pass,775,1,Cash,Online,150
+776,CD0022,13-06-2020,0,1,Annual pass,776,3,Debit Card,Online,800
+777,CD0120,07-11-2019,0,1,Annual pass,777,1,Cash,Offline,800
+778,CD0146,24-04-2020,0,1,Annual pass,778,3,Debit Card,Online,800
+779,CD0102,12-05-2020,0,1,Annual pass,779,1,Cash,Offline,800
+780,CD0114,11-02-2020,1,2,Parking ticket,780,1,Cash,Online,20
+781,CD0095,29-04-2020,0,2,Parking ticket,781,1,Cash,Online,20
+782,CD0063,22-05-2020,0,2,Parking ticket,782,2,Credit Card,Offline,20
+783,CD0111,20-06-2020,0,1,Annual pass,783,3,Debit Card,Offline,800
+784,CD0142,15-07-2020,0,1,Annual pass,784,2,Credit Card,Offline,800
+785,CD0094,18-12-2019,1,2,Parking ticket,785,3,Debit Card,Online,20
+786,CD0058,06-11-2019,1,3,Daily Pass,786,4,Online Payment,Offline,120
+787,CD0112,16-04-2020,1,1,Annual pass,787,3,Debit Card,Offline,700
+788,CD0135,02-07-2020,0,3,Daily Pass,788,1,Cash,Offline,150
+789,CD0017,12-11-2019,1,2,Parking ticket,789,1,Cash,Offline,20
+790,CD0037,10-11-2019,0,3,Daily Pass,790,4,Online Payment,Offline,150
+791,CD0075,24-06-2020,0,3,Daily Pass,791,1,Cash,Online,150
+792,CD0103,13-12-2019,0,3,Daily Pass,792,2,Credit Card,Offline,150
+793,CD0083,03-12-2019,0,3,Daily Pass,793,2,Credit Card,Online,150
+794,CD0037,19-02-2020,0,2,Parking ticket,794,3,Debit Card,Online,20
+795,CD0036,04-12-2019,0,2,Parking ticket,795,2,Credit Card,Online,20
+796,CD0067,23-02-2020,1,3,Daily Pass,796,1,Cash,Offline,120
+797,CD0063,08-03-2020,0,3,Daily Pass,797,1,Cash,Online,150
+798,CD0098,17-06-2020,0,1,Annual pass,798,3,Debit Card,Online,800
+799,CD0082,06-12-2019,0,2,Parking ticket,799,4,Online Payment,Online,20
+800,CD0106,31-01-2020,0,3,Daily Pass,800,4,Online Payment,Offline,150
+801,CD0095,18-03-2020,1,3,Daily Pass,801,2,Credit Card,Online,120
+802,CD0121,04-04-2020,1,1,Annual pass,802,2,Credit Card,Offline,700
+803,CD0085,31-12-2019,1,3,Daily Pass,803,3,Debit Card,Offline,120
+804,CD0124,02-02-2020,1,1,Annual pass,804,1,Cash,Online,700
+805,CD0026,24-01-2020,0,2,Parking ticket,805,1,Cash,Offline,20
+806,CD0102,12-03-2020,0,3,Daily Pass,806,4,Online Payment,Offline,150
+807,CD0130,20-03-2020,0,2,Parking ticket,807,1,Cash,Online,20
+808,CD0024,04-12-2019,0,1,Annual pass,808,1,Cash,Online,800
+809,CD0005,26-12-2019,0,3,Daily Pass,809,3,Debit Card,Offline,150
+810,CD0065,31-05-2020,0,2,Parking ticket,810,1,Cash,Online,20
+811,CD0022,16-12-2019,0,2,Parking ticket,811,1,Cash,Offline,20
+812,CD0083,18-07-2020,0,3,Daily Pass,812,2,Credit Card,Online,150
+813,CD0086,18-04-2020,1,3,Daily Pass,813,1,Cash,Offline,120
+814,CD0015,05-07-2020,1,2,Parking ticket,814,3,Debit Card,Online,20
+815,CD0143,02-12-2019,1,3,Daily Pass,815,2,Credit Card,Offline,120
+816,CD0098,23-06-2020,1,1,Annual pass,816,1,Cash,Online,700
+817,CD0086,30-01-2020,1,1,Annual pass,817,1,Cash,Offline,700
+818,CD0034,08-02-2020,1,1,Annual pass,818,4,Online Payment,Online,700
+819,CD0131,26-12-2019,1,1,Annual pass,819,4,Online Payment,Offline,700
+820,CD0087,07-04-2020,1,2,Parking ticket,820,3,Debit Card,Offline,20
+821,CD0066,09-02-2020,1,3,Daily Pass,821,1,Cash,Offline,120
+822,CD0019,19-05-2020,1,1,Annual pass,822,4,Online Payment,Offline,700
+823,CD0115,24-03-2020,1,3,Daily Pass,823,4,Online Payment,Online,120
+824,CD0057,10-07-2020,0,2,Parking ticket,824,2,Credit Card,Online,20
+825,CD0016,21-03-2020,0,2,Parking ticket,825,4,Online Payment,Online,20
+826,CD0045,07-02-2020,1,3,Daily Pass,826,4,Online Payment,Offline,120
+827,CD0054,11-07-2020,0,1,Annual pass,827,1,Cash,Online,800
+828,CD0069,13-06-2020,0,3,Daily Pass,828,2,Credit Card,Online,150
+829,CD0075,18-12-2019,0,2,Parking ticket,829,3,Debit Card,Offline,20
+830,CD0063,11-12-2019,0,2,Parking ticket,830,1,Cash,Offline,20
+831,CD0011,11-12-2019,0,1,Annual pass,831,4,Online Payment,Offline,800
+832,CD0005,11-03-2020,0,1,Annual pass,832,2,Credit Card,Online,800
+833,CD0014,25-03-2020,1,2,Parking ticket,833,3,Debit Card,Offline,20
+834,CD0041,06-11-2019,0,3,Daily Pass,834,2,Credit Card,Offline,150
+835,CD0140,25-07-2020,0,1,Annual pass,835,3,Debit Card,Online,800
+836,CD0083,02-08-2020,0,2,Parking ticket,836,4,Online Payment,Offline,20
+837,CD0032,26-02-2020,1,1,Annual pass,837,4,Online Payment,Online,700
+838,CD0001,11-08-2020,1,1,Annual pass,838,3,Debit Card,Online,700
+839,CD0122,28-05-2020,0,3,Daily Pass,839,3,Debit Card,Offline,150
+840,CD0087,29-01-2020,0,1,Annual pass,840,4,Online Payment,Offline,800
+841,CD0018,12-02-2020,0,1,Annual pass,841,3,Debit Card,Offline,800
+842,CD0090,31-01-2020,0,2,Parking ticket,842,2,Credit Card,Offline,20
+843,CD0036,10-05-2020,0,2,Parking ticket,843,4,Online Payment,Online,20
+844,CD0064,26-03-2020,1,3,Daily Pass,844,4,Online Payment,Offline,120
+845,CD0144,30-06-2020,1,3,Daily Pass,845,3,Debit Card,Online,120
+846,CD0134,01-08-2020,0,1,Annual pass,846,4,Online Payment,Online,800
+847,CD0009,31-05-2020,0,1,Annual pass,847,2,Credit Card,Online,800
+848,CD0042,10-11-2019,1,3,Daily Pass,848,1,Cash,Online,120
+849,CD0106,30-11-2019,1,1,Annual pass,849,3,Debit Card,Offline,700
+850,CD0086,01-06-2020,1,3,Daily Pass,850,1,Cash,Offline,120
+851,CD0062,16-01-2020,1,2,Parking ticket,851,4,Online Payment,Offline,20
+852,CD0017,12-05-2020,0,2,Parking ticket,852,4,Online Payment,Offline,20
+853,CD0118,21-11-2019,0,3,Daily Pass,853,2,Credit Card,Offline,150
+854,CD0124,12-11-2019,0,1,Annual pass,854,4,Online Payment,Offline,800
+855,CD0113,05-01-2020,0,1,Annual pass,855,1,Cash,Offline,800
+856,CD0120,06-12-2019,0,3,Daily Pass,856,3,Debit Card,Online,150
+857,CD0148,03-02-2020,1,3,Daily Pass,857,3,Debit Card,Online,120
+858,CD0108,11-06-2020,1,3,Daily Pass,858,4,Online Payment,Online,120
+859,CD0038,22-05-2020,0,1,Annual pass,859,3,Debit Card,Online,800
+860,CD0073,12-04-2020,0,1,Annual pass,860,1,Cash,Online,800
+861,CD0038,21-11-2019,0,3,Daily Pass,861,1,Cash,Offline,150
+862,CD0122,01-05-2020,0,3,Daily Pass,862,4,Online Payment,Online,150
+863,CD0072,31-01-2020,0,2,Parking ticket,863,3,Debit Card,Online,20
+864,CD0005,27-04-2020,1,1,Annual pass,864,4,Online Payment,Online,700
+865,CD0050,26-04-2020,1,2,Parking ticket,865,4,Online Payment,Online,20
+866,CD0051,27-11-2019,0,1,Annual pass,866,1,Cash,Online,800
+867,CD0029,09-06-2020,1,1,Annual pass,867,4,Online Payment,Offline,700
+868,CD0023,10-08-2020,0,3,Daily Pass,868,1,Cash,Online,150
+869,CD0137,04-12-2019,0,1,Annual pass,869,4,Online Payment,Offline,800
+870,CD0117,04-07-2020,0,2,Parking ticket,870,1,Cash,Online,20
+871,CD0147,07-03-2020,1,1,Annual pass,871,1,Cash,Offline,700
+872,CD0051,23-12-2019,0,1,Annual pass,872,1,Cash,Online,800
+873,CD0064,22-12-2019,0,2,Parking ticket,873,2,Credit Card,Offline,20
+874,CD0041,25-01-2020,0,2,Parking ticket,874,4,Online Payment,Online,20
+875,CD0099,26-11-2019,1,3,Daily Pass,875,3,Debit Card,Offline,120
+876,CD0065,03-06-2020,1,1,Annual pass,876,3,Debit Card,Online,700
+877,CD0101,29-03-2020,0,1,Annual pass,877,4,Online Payment,Online,800
+878,CD0057,21-02-2020,0,2,Parking ticket,878,4,Online Payment,Online,20
+879,CD0057,26-05-2020,0,1,Annual pass,879,3,Debit Card,Offline,800
+880,CD0107,18-03-2020,0,2,Parking ticket,880,4,Online Payment,Offline,20
+881,CD0008,11-03-2020,1,2,Parking ticket,881,4,Online Payment,Offline,20
+882,CD0005,09-01-2020,0,2,Parking ticket,882,1,Cash,Online,20
+883,CD0112,15-01-2020,1,3,Daily Pass,883,3,Debit Card,Offline,120
+884,CD0080,14-02-2020,1,1,Annual pass,884,3,Debit Card,Offline,700
+885,CD0121,25-06-2020,0,2,Parking ticket,885,4,Online Payment,Offline,20
+886,CD0132,30-01-2020,1,2,Parking ticket,886,2,Credit Card,Offline,20
+887,CD0050,08-01-2020,0,1,Annual pass,887,1,Cash,Offline,800
+888,CD0069,19-06-2020,1,2,Parking ticket,888,3,Debit Card,Offline,20
+889,CD0034,21-11-2019,1,1,Annual pass,889,3,Debit Card,Online,700
+890,CD0141,30-04-2020,1,3,Daily Pass,890,1,Cash,Online,120
+891,CD0085,01-04-2020,1,3,Daily Pass,891,4,Online Payment,Online,120
+892,CD0039,16-04-2020,0,2,Parking ticket,892,2,Credit Card,Online,20
+893,CD0076,21-03-2020,1,1,Annual pass,893,3,Debit Card,Online,700
+894,CD0001,23-05-2020,1,1,Annual pass,894,1,Cash,Online,700
+895,CD0013,18-01-2020,1,1,Annual pass,895,2,Credit Card,Offline,700
+896,CD0093,17-12-2019,0,1,Annual pass,896,4,Online Payment,Offline,800
+897,CD0016,25-05-2020,0,2,Parking ticket,897,1,Cash,Online,20
+898,CD0012,25-03-2020,0,3,Daily Pass,898,2,Credit Card,Online,150
+899,CD0005,16-05-2020,1,2,Parking ticket,899,4,Online Payment,Offline,20
+900,CD0144,13-12-2019,1,3,Daily Pass,900,4,Online Payment,Offline,120
+901,CD0055,17-02-2020,1,2,Parking ticket,901,1,Cash,Online,20
+902,CD0069,29-12-2019,1,1,Annual pass,902,4,Online Payment,Online,700
+903,CD0027,20-01-2020,1,1,Annual pass,903,3,Debit Card,Offline,700
+904,CD0037,28-01-2020,0,2,Parking ticket,904,1,Cash,Offline,20
+905,CD0108,19-12-2019,1,2,Parking ticket,905,1,Cash,Offline,20
+906,CD0027,04-07-2020,0,3,Daily Pass,906,2,Credit Card,Online,150
+907,CD0089,02-08-2020,1,1,Annual pass,907,1,Cash,Online,700
+908,CD0106,13-03-2020,0,3,Daily Pass,908,3,Debit Card,Online,150
+909,CD0149,11-12-2019,0,2,Parking ticket,909,2,Credit Card,Offline,20
+910,CD0133,07-03-2020,0,3,Daily Pass,910,4,Online Payment,Offline,150
+911,CD0083,29-06-2020,0,1,Annual pass,911,1,Cash,Offline,800
+912,CD0084,25-07-2020,0,1,Annual pass,912,1,Cash,Offline,800
+913,CD0048,14-02-2020,1,3,Daily Pass,913,2,Credit Card,Online,120
+914,CD0016,02-05-2020,1,3,Daily Pass,914,4,Online Payment,Offline,120
+915,CD0136,28-06-2020,1,2,Parking ticket,915,1,Cash,Offline,20
+916,CD0026,14-07-2020,1,1,Annual pass,916,4,Online Payment,Offline,700
+917,CD0116,27-04-2020,1,2,Parking ticket,917,3,Debit Card,Online,20
+918,CD0129,24-03-2020,1,2,Parking ticket,918,1,Cash,Offline,20
+919,CD0094,29-06-2020,0,2,Parking ticket,919,1,Cash,Online,20
+920,CD0145,06-06-2020,0,3,Daily Pass,920,4,Online Payment,Offline,150
+921,CD0072,18-05-2020,0,3,Daily Pass,921,3,Debit Card,Offline,150
+922,CD0029,26-06-2020,0,2,Parking ticket,922,4,Online Payment,Offline,20
+923,CD0027,31-07-2020,1,1,Annual pass,923,1,Cash,Online,700
+924,CD0065,23-05-2020,1,1,Annual pass,924,4,Online Payment,Online,700
+925,CD0058,06-04-2020,1,3,Daily Pass,925,3,Debit Card,Online,120
+926,CD0009,01-07-2020,0,2,Parking ticket,926,4,Online Payment,Offline,20
+927,CD0065,19-02-2020,0,1,Annual pass,927,4,Online Payment,Online,800
+928,CD0037,13-04-2020,0,1,Annual pass,928,2,Credit Card,Online,800
+929,CD0087,18-04-2020,1,3,Daily Pass,929,2,Credit Card,Online,120
+930,CD0092,17-03-2020,0,3,Daily Pass,930,3,Debit Card,Online,150
+931,CD0124,01-01-2020,0,3,Daily Pass,931,2,Credit Card,Online,150
+932,CD0062,31-12-2019,0,3,Daily Pass,932,2,Credit Card,Offline,150
+933,CD0049,29-04-2020,0,1,Annual pass,933,2,Credit Card,Offline,800
+934,CD0105,19-03-2020,1,1,Annual pass,934,3,Debit Card,Online,700
+935,CD0114,24-04-2020,1,3,Daily Pass,935,4,Online Payment,Online,120
+936,CD0109,06-08-2020,0,1,Annual pass,936,2,Credit Card,Offline,800
+937,CD0138,09-02-2020,1,2,Parking ticket,937,3,Debit Card,Online,20
+938,CD0127,18-01-2020,1,3,Daily Pass,938,4,Online Payment,Online,120
+939,CD0047,09-08-2020,1,1,Annual pass,939,3,Debit Card,Online,700
+940,CD0003,17-11-2019,0,3,Daily Pass,940,4,Online Payment,Online,150
+941,CD0026,09-12-2019,1,1,Annual pass,941,4,Online Payment,Offline,700
+942,CD0029,30-05-2020,0,1,Annual pass,942,2,Credit Card,Offline,800
+943,CD0009,01-12-2019,1,1,Annual pass,943,4,Online Payment,Offline,700
+944,CD0077,02-12-2019,0,2,Parking ticket,944,3,Debit Card,Online,20
+945,CD0069,04-03-2020,1,2,Parking ticket,945,4,Online Payment,Offline,20
+946,CD0137,12-08-2020,1,3,Daily Pass,946,1,Cash,Offline,120
+947,CD0131,24-04-2020,0,3,Daily Pass,947,2,Credit Card,Online,150
+948,CD0114,10-03-2020,1,3,Daily Pass,948,2,Credit Card,Offline,120
+949,CD0075,08-03-2020,1,2,Parking ticket,949,4,Online Payment,Online,20
+950,CD0040,27-02-2020,1,1,Annual pass,950,4,Online Payment,Offline,700
+951,CD0034,25-01-2020,1,3,Daily Pass,951,4,Online Payment,Offline,120
+952,CD0041,19-07-2020,1,1,Annual pass,952,1,Cash,Offline,700
+953,CD0105,30-05-2020,0,2,Parking ticket,953,3,Debit Card,Online,20
+954,CD0089,21-12-2019,0,3,Daily Pass,954,4,Online Payment,Online,150
+955,CD0041,27-07-2020,1,1,Annual pass,955,4,Online Payment,Online,700
+956,CD0065,15-11-2019,1,3,Daily Pass,956,3,Debit Card,Online,120
+957,CD0068,09-01-2020,0,2,Parking ticket,957,4,Online Payment,Offline,20
+958,CD0007,02-04-2020,1,1,Annual pass,958,3,Debit Card,Offline,700
+959,CD0102,23-11-2019,1,2,Parking ticket,959,2,Credit Card,Offline,20
+960,CD0058,23-06-2020,1,2,Parking ticket,960,1,Cash,Offline,20
+961,CD0096,09-06-2020,0,1,Annual pass,961,1,Cash,Offline,800
+962,CD0134,26-04-2020,1,3,Daily Pass,962,2,Credit Card,Offline,120
+963,CD0090,14-12-2019,0,1,Annual pass,963,4,Online Payment,Online,800
+964,CD0002,16-04-2020,1,3,Daily Pass,964,1,Cash,Online,120
+965,CD0051,23-01-2020,1,1,Annual pass,965,1,Cash,Offline,700
+966,CD0009,19-11-2019,0,3,Daily Pass,966,3,Debit Card,Online,150
+967,CD0022,15-11-2019,1,2,Parking ticket,967,3,Debit Card,Offline,20
+968,CD0061,24-11-2019,1,3,Daily Pass,968,4,Online Payment,Online,120
+969,CD0097,05-06-2020,1,3,Daily Pass,969,1,Cash,Online,120
+970,CD0063,07-02-2020,1,3,Daily Pass,970,2,Credit Card,Offline,120
+971,CD0128,05-03-2020,1,2,Parking ticket,971,4,Online Payment,Offline,20
+972,CD0071,19-03-2020,0,3,Daily Pass,972,1,Cash,Online,150
+973,CD0090,19-12-2019,1,3,Daily Pass,973,1,Cash,Online,120
+974,CD0057,08-03-2020,0,1,Annual pass,974,1,Cash,Online,800
+975,CD0046,09-04-2020,1,3,Daily Pass,975,4,Online Payment,Offline,120
+976,CD0144,18-06-2020,1,1,Annual pass,976,4,Online Payment,Offline,700
+977,CD0078,16-02-2020,0,2,Parking ticket,977,1,Cash,Offline,20
+978,CD0118,25-11-2019,0,1,Annual pass,978,4,Online Payment,Offline,800
+979,CD0093,17-05-2020,0,2,Parking ticket,979,2,Credit Card,Offline,20
+980,CD0033,30-04-2020,0,1,Annual pass,980,3,Debit Card,Online,800
+981,CD0116,17-11-2019,0,3,Daily Pass,981,4,Online Payment,Offline,150
+982,CD0114,21-06-2020,1,1,Annual pass,982,1,Cash,Offline,700
+983,CD0020,25-05-2020,0,1,Annual pass,983,4,Online Payment,Online,800
+984,CD0069,18-06-2020,1,3,Daily Pass,984,1,Cash,Online,120
+985,CD0047,23-11-2019,0,1,Annual pass,985,4,Online Payment,Online,800
+986,CD0106,16-12-2019,1,3,Daily Pass,986,1,Cash,Online,120
+987,CD0084,07-04-2020,0,1,Annual pass,987,4,Online Payment,Offline,800
+988,CD0083,06-12-2019,1,3,Daily Pass,988,3,Debit Card,Online,120
+989,CD0140,06-12-2019,1,3,Daily Pass,989,2,Credit Card,Online,120
+990,CD0032,11-02-2020,1,3,Daily Pass,990,3,Debit Card,Online,120
+991,CD0004,09-11-2019,1,1,Annual pass,991,4,Online Payment,Offline,700
+992,CD0108,12-05-2020,1,1,Annual pass,992,2,Credit Card,Offline,700
+993,CD0022,12-01-2020,1,3,Daily Pass,993,3,Debit Card,Online,120
+994,CD0031,26-12-2019,0,2,Parking ticket,994,3,Debit Card,Offline,20
+995,CD0045,15-12-2019,0,1,Annual pass,995,2,Credit Card,Offline,800
+996,CD0104,06-05-2020,0,3,Daily Pass,996,1,Cash,Online,150
+997,CD0117,23-12-2019,0,3,Daily Pass,997,3,Debit Card,Offline,150
+998,CD0047,08-04-2020,1,1,Annual pass,998,2,Credit Card,Online,700
+999,CD0124,19-03-2020,1,3,Daily Pass,999,3,Debit Card,Offline,120
+1000,CD0038,27-07-2020,1,3,Daily Pass,1000,3,Debit Card,Online,120
